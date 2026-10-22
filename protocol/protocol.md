@@ -1,6 +1,6 @@
 # What Practitioners Notice and How They Interpret It When Supporting Product Development Teams: A Qualitative Systematic Review Protocol
 
-**Protocol version:** 1.0.
+**Protocol version:** 1.0.1.
 **Protocol date:** 22 October 2026 (Japan Standard Time).
 
 This protocol specifies the planned methods for a qualitative systematic review. Human validation and formal eligibility assessment remain to be completed.
@@ -28,6 +28,8 @@ systematic review; qualitative evidence synthesis; product development teams; te
 ### Protocol availability and amendments
 
 This protocol and subsequent dated amendments will be maintained in this repository. For each important change, Kado will record the version, actual date, change, reason, stage reached, affected records and work requiring reassessment before the affected formal work proceeds. Search execution dates and completed review activities will be reported using their actual dates.
+
+Version 1.0.1 (22 October 2026) clarifies how validation batches are defined and fixed before processing and the handling of a reference sample with no human-forward record. These clarifications precede formal human validation and acceptance of AI-proposed exclusions.
 
 ## Review plan
 
@@ -431,11 +433,19 @@ Missing or unusable titles, non-English, mixed or unclear screening-text languag
 
 The same eligibility rules and AI-first assessment will apply to primary, supplementary, citation and update candidates. Discovery route will remain traceable. A verified additional source identifier for an already represented report adds provenance rather than another report or another screening decision. Different reports from the same study will remain distinct reports.
 
+### Validation batches
+
+A validation batch is a prespecified, versioned set of deduplicated screening records. The initial batch comprises the prepared records from the initial primary and supplementary searches and prior knowledge. A later batch comprises new records or records with changes that could affect eligibility, identified in one prespecified search-update cycle, supplementary acquisition round or citation-search generation. Each round's scope and cutoff, and the batch's membership, stable identifiers and input versions, will be recorded and fixed before formal AI processing and human reference sampling.
+
+Each batch will use one fixed model and configuration, instruction set and versioned input-preparation procedure. If materially different configurations are planned, their record assignments and separate validation batches will be fixed before processing; validation evidence will not be pooled across them to accept exclusions. Source and abstract-availability differences within the same procedure will remain traceable and will not by themselves create separate batches. Technical request groups, processing chunks and retries do not create validation batches. Batches will not be split, combined or selectively reassigned in response to AI outputs or human validation findings. An instruction or configuration revision will follow the reassessment and fresh-validation rules below; renaming the affected set as a new batch does not preserve acceptance under a superseded procedure.
+
 ### Human reference validation
 
-After the instructions and configuration have been fixed, a simple random sample without replacement of min(100, N) records will be drawn from the prepared screening set of N records, using sorted stable identifiers and a recorded seed. Kado will assess every sampled title and available abstract without first viewing its AI assessment. His reference judgment will be either forward to full text, including uncertainty, or clearly exclude with a source-based reason. The frame, selected identifiers, seed, prior exposure, judgments and comparison with the frozen AI outputs will be retained.
+After the instructions and configuration have been fixed, a simple random sample without replacement of min(100, N) records will be drawn from the validation batch of N records defined above, using sorted stable identifiers and a recorded seed. Kado will assess every sampled title and available abstract without first viewing its AI assessment. His reference judgment will be either forward to full text, including uncertainty, or clearly exclude with a source-based reason. The frame, selected identifiers, seed, prior exposure, judgments and comparison with the frozen AI outputs will be retained.
 
-The comparison will report the complete disposition table, the number of human-forward records proposed for AI exclusion, the reasons for disagreements, abstract availability and any unsupported AI rationale. Every human-forward record in this reference set must be retained or forwarded by the finalized AI procedure. Human-uncertain cases count as forward for this comparison. A reference sample with no human-forward case cannot establish the system's ability to retain such cases; additional human assessment will then be required and reported separately. Known and purposefully selected boundary cases will also be checked, but their results will not be pooled with the random sample as a representative performance estimate.
+The comparison will report the complete disposition table, the number of human-forward records proposed for AI exclusion, the reasons for disagreements, abstract availability and any unsupported AI rationale. Every human-forward record in this reference set must be retained or forwarded by the finalized AI procedure. Human-uncertain cases count as forward for this comparison. Known and purposefully selected boundary cases will also be checked, but their results will not be pooled with the random sample as a representative performance estimate.
+
+If the random reference sample contains no human-forward record, the batch's remaining AI-proposed exclusions that Kado has not individually assessed will remain provisional. Known or purposefully selected examples, or additional checks chosen after seeing this result, will not by themselves authorize their acceptance. Any further validation used to accept these exclusions will require a prospective written specification of its selection method, sample size or maximum extent, and acceptance rule before it begins. Alternatively, actual individual human decisions may complete a set that Kado assesses in full; this will be reported as human assessment rather than successful sampled AI validation. The same rule applies to fresh reference samples after revision and to later batches.
 
 A reference-set false exclusion will be investigated against the source and instructions. Affected records and reason categories will remain pending while any instruction or configuration revision is made. Revised outputs will retain the original version, and evaluation on the cases used to make the revision will be identified as development checking. Acceptance of the revised procedure will require a fresh random reference sample of the same size, where sufficient unexposed records remain, and the separate exclusion audit below. If an adequate new assessment cannot be completed, AI-proposed exclusions will remain provisional rather than being accepted on the basis of a reused test set. Where Kado has actually assessed every record in a small set, those individual human decisions may complete its assessment; this will be reported as complete human assessment, not validated AI exclusion.
 
@@ -443,7 +453,7 @@ The sample size is a practical operating choice, not a validated guarantee of re
 
 ### Human audit of AI-proposed exclusions
 
-After reference validation, Kado will independently draw a simple random sample without replacement of min(100, E) remaining AI-proposed exclusions, where E is the number not already assessed by him. The audit frame, seed and selected identifiers will be recorded. He will make his initial title-and-abstract judgment without first viewing the AI assessment. Any record that he considers potentially eligible or uncertain will proceed to full-text assessment. Such a discrepancy counts as an AI false exclusion for the audit, even if the report is later excluded at full text.
+After reference validation, Kado will independently draw a simple random sample without replacement of min(100, E) remaining AI-proposed exclusions, where E is the number of AI-proposed exclusions in that validation batch not already individually assessed by him. The audit frame, seed and selected identifiers will be recorded. He will make his initial title-and-abstract judgment without first viewing the AI assessment. Any record that he considers potentially eligible or uncertain will proceed to full-text assessment. Such a discrepancy counts as an AI false exclusion for the audit, even if the report is later excluded at full text.
 
 Purposeful boundary checks, including known potentially eligible reports, title-only records and varied proposed exclusion reasons, will complement the random samples. Their selection and results will be reported separately rather than pooled as a representative performance estimate. Prior reference and trial cases will not be presented as new independent audit cases. The specified sample sizes are operational choices, not evidence that all sources of error have been covered.
 
@@ -459,11 +469,11 @@ Every later discovery will be linked to its stable identifier and compared with 
 | --- | --- |
 | A search supplies the same verified report with unchanged screening text and eligibility-relevant metadata | Retain its valid assessment under the current procedure, add source/query/date provenance and do not count another screening decision. |
 | A new report is identified | Apply the finalized AI first-pass procedure and include the new batch in validation and exclusion auditing before accepting its proposed exclusions. |
-| Title, abstract, language, report identity, report type or date changes in a way that could affect eligibility | Preserve both versions, assess the impact, and repeat the affected assessment under the current procedure. Unresolved effects remain pending. |
+| Title, abstract, language, report identity, report type or date changes in a way that could affect eligibility | Preserve both versions, assess the impact, and include the affected records in the relevant later validation batch for reassessment under the current procedure. Unresolved effects remain pending. |
 | A human judgment or AI exclusion is corrected, or a merge reveals conflicting assessments | Preserve the original history, resolve the report identity and competing decisions, and investigate whether other records share the error. Reassess the affected set and repeat validation or auditing where the error challenges their basis. |
 | An additional source identifier refers to an already represented report, or only citation counts or unrelated metadata change | Update provenance or metadata without inventing a new eligibility decision. |
 
-A new batch will not inherit a claim of completed validation solely because an earlier batch was checked. Its input and processing conditions will be compared with the validated configuration, and the reference sample and exclusion audit will be repeated within the new batch, up to the specified sample sizes. A substantive eligibility or method change requires a dated amendment and reassessment of affected records before their decisions are used.
+A later batch, as defined under [Validation batches](#validation-batches), will not inherit a claim of completed validation solely because an earlier batch was checked. Its input and processing conditions will be compared with the validated configuration, and the reference sample and exclusion audit will be repeated within that batch, up to the specified sample sizes. The rule for a reference sample with no human-forward record also applies. A substantive eligibility or method change requires a dated amendment and reassessment of affected records before their decisions are used.
 
 ### Completion and limitations
 
