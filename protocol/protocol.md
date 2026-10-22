@@ -1,6 +1,6 @@
 # What Practitioners Notice and How They Interpret It When Supporting Product Development Teams: A Qualitative Systematic Review Protocol
 
-**Protocol version:** 1.0.1.
+**Protocol version:** 1.1.
 **Protocol date:** 22 October 2026 (Japan Standard Time).
 
 This protocol specifies the planned methods for a qualitative systematic review. Human validation and formal eligibility assessment remain to be completed.
@@ -30,6 +30,8 @@ systematic review; qualitative evidence synthesis; product development teams; te
 This protocol and subsequent dated amendments will be maintained in this repository. For each important change, Kado will record the version, actual date, change, reason, stage reached, affected records and work requiring reassessment before the affected formal work proceeds. Search execution dates and completed review activities will be reported using their actual dates.
 
 Version 1.0.1 (22 October 2026) clarifies how validation batches are defined and fixed before processing and the handling of a reference sample with no human-forward record. These clarifications precede formal human validation and acceptance of AI-proposed exclusions.
+
+Version 1.1 (22 October 2026) adopts a one-time closure of initial Google Scholar supplementary acquisition with 35 unresolved SerpApi page coordinates after unsuccessful recovery, exhausted free quota and a browser access block. It retains all saved SerpApi, browser and owner-provided identification evidence without claiming completion of the original ranges or equivalent coverage. The amendment precedes formal AI screening, human validation and acceptance of AI-proposed exclusions. It affects the initial discovery frame and its reporting; report identification, input preparation and the specified validation still need to be completed. Pre-submission search updating and all substantive eligibility and assessment rules remain unchanged.
 
 ## Review plan
 
@@ -133,7 +135,7 @@ The bounded supplementary source is Google Scholar, accessed through the third-p
 
 Candidates identified by the bounded Consensus search are included. Four fixed inputs supply the first 20 returned positions per input, retaining duplicates as displayed observations. The completed search contains 80 observations and 78 distinct provider identifiers. These candidates enter report identification and the screening and validation procedure specified below. Search inputs, interface, bounds and actual execution dates remain part of the identification record.
 
-Primary retrieval must reach each source's supported continuation endpoint. Required supplementary coverage must be resolved or explicitly amended before formal screening. Search acquisition does not complete the separate human-trial, identity, input, routing, workflow or workload requirements.
+Primary retrieval must reach each source's supported continuation endpoint. Required supplementary coverage must be resolved or explicitly amended before formal screening. Search acquisition does not complete the separate human-trial, identity, input, routing, workflow or workload requirements. The one-time exception under Initial supplementary acquisition with unresolved coverage explicitly amends the initial coverage requirement while preserving the recorded shortfall.
 
 The search uses accessible public sources and does not claim equivalent coverage of subscription databases or exhaustive publisher-specific coverage. Bounded ranked results may omit relevant reports. English metadata filters may omit English full texts with missing or incorrect language codes. There are no publication-year, report-type, subject-category, citation-count or Open Access restrictions at retrieval; the stated report-type and full-text eligibility criteria apply during selection.
 
@@ -158,6 +160,16 @@ Use GET https://serpapi.com/search.json as the third-party retrieval interface f
 Retain the first 200 displayed positions for each general expression and the first 100 for each thesis expression, including duplicates, or all positions when a genuine earlier terminal is confirmed. Each saved page contributes at most its first 20 returned positions to the planned range. Preserve requested offset, provider positions, actual returned settings and URL, search identifier and time, raw response hash, estimated total, continuation and terminal evidence. Estimated totals are not exact retrieval denominators.
 
 Short or empty pages with continuation, missing ranks, repeated offsets, provider errors, quota exhaustion and access blocks are unresolved coverage rather than zero hits or valid stopping. Retain each bounded recovery attempt with its actual date and ranking. Recovery stays within the same expressions, settings and position bounds and requires a recorded operational basis. Changes to the intended range require a dated method amendment. Preserve prior observations and distinguish cumulative page-coordinate coverage from one contemporaneous ranked list. Access blocks are recorded without bypassing security controls; no open-ended automatic retry or paid account expansion is planned.
+
+### Initial supplementary acquisition with unresolved coverage
+
+For the initial acquisition only, we will retain the saved supplementary identification evidence and end further attempts to repair the 35 unresolved SerpApi page coordinates. This is a specific amendment to the initial bounded-retrieval requirements under Databases, Grey literature and Query strings. It takes effect only after Kado records the adopted amendment and its actual date before the affected formal screening. The original first-200-position general and first-100-position thesis ranges, failed and partial responses, and unresolved coordinates will remain in the search record. Closing initial acquisition with this shortfall does not establish that those ranges were retrieved or that a genuine earlier terminal was reached.
+
+The saved SerpApi evidence comprises 2,127 observations and 1,533 distinct provider identifiers across the 16 expressions. At least one page with 20 returned results was observed at 85 of the 120 planned page coordinates; 35 coordinates remain unresolved. The separate browser and owner-provided evidence comprises 940 observations and 913 distinct provider identifier strings, of which 324 also occur in the saved SerpApi set and 589 do not. Retain all these observations, their original source text and hashes, query membership, actual settings, dates and position evidence. Browser capture supplies material for 67 of the 70 prespecified ten-position targets; owner-provided text supplies material for the remaining three targets as reported by the owner. The 940 observations comprise 670 from browser target pages, 240 from intermediate navigation pages and 30 supplied by the owner. Unverified owner-reported search dates, URLs and DOM positions will remain unverified. Missing or redacted browser metadata will remain missing. These materials are separate identification routes with different executions, settings and observed ranges; they do not repair the 35 SerpApi coordinates, establish an equivalent ranked range or form one contemporaneous ranked list. Shared identifier strings do not alone establish report identity.
+
+Further initial recovery will end because the documented recovery attempts left unresolved coverage, the saved account check showed no free searches or extra credits, and browser acquisition encountered an access block. No further initial request, bypass of an access restriction or paid account expansion is required under this amendment. All retained identification candidates will enter the specified report-identity, input-preparation, AI assessment and human-validation procedures, without selecting a convenient subset. Search snippets will remain distinct from abstracts. This closure does not complete report-level deduplication, representative-text selection, validation or eligibility assessment, and it does not remove any other requirement for the affected formal work.
+
+This exception applies only to initial acquisition. All requirements under Search expiration and repetition remain unchanged, including the pre-submission repetition of all 16 SerpApi expressions with the same settings and first-200/first-100-position bounds, the search-age limit and the handling of failed queries or unresolved update coverage. The initial shortfall cannot be used to waive those later requirements.
 
 ### Completed Consensus candidate identification
 
@@ -270,7 +282,7 @@ SUP-Q07: "team support"
 SUP-Q08: "enabling leadership"
 ```
 
-Each expression retains its first 200 displayed positions, including duplicates, with earlier termination only when the end of available results is confirmed.
+Each expression retains its first 200 displayed positions, including duplicates, with earlier termination only when the end of available results is confirmed. The one-time initial-acquisition exception is specified under Initial supplementary acquisition with unresolved coverage; it does not change these bounds for pre-submission updates.
 
 ### Google Scholar: doctoral-thesis supplement
 
@@ -285,7 +297,7 @@ Each expression retains its first 200 displayed positions, including duplicates,
 | TH-Q07 | `"team support" AND (dissertation OR thesis)` |
 | TH-Q08 | `"enabling leadership" AND (dissertation OR thesis)` |
 
-Each expression retains its first 100 displayed positions, including duplicates, with earlier termination only when the end of available results is confirmed.
+Each expression retains its first 100 displayed positions, including duplicates, with earlier termination only when the end of available results is confirmed. The one-time initial-acquisition exception is specified under Initial supplementary acquisition with unresolved coverage; it does not change these bounds for pre-submission updates.
 
 ### Completed Consensus identification inputs
 
@@ -319,7 +331,7 @@ The identification search retains the first 20 returned positions per input, inc
 
 Search checks will distinguish whether a known diagnostic report is indexed, what searchable metadata it has, whether the exact expression matches it, and the reasons for a miss. Known-item examples test operation and boundaries; they are not an independent holdout set, an independent human peer review of the search or a numerical estimate of sensitivity. Recovery of examples does not prove complete coverage.
 
-For the eight primary queries, verify exact parameters, raw hashes, unique source identifiers, the provider total and its type, and continuation and terminal evidence. Metadata completeness, report identity and representative title/abstract versions will be checked before the screening input is fixed. Google Scholar checks retain requested coordinates, observed positions, short or failed responses, and the actual date and ranking of each attempt. Required gaps remain unresolved until repaired or explicitly addressed by a method amendment. Consensus input and bibliography checks establish a discovery route, not original-report identity or eligibility.
+For the eight primary queries, verify exact parameters, raw hashes, unique source identifiers, the provider total and its type, and continuation and terminal evidence. Metadata completeness, report identity and representative title/abstract versions will be checked before the screening input is fixed. Google Scholar checks retain requested coordinates, observed positions, short or failed responses, and the actual date and ranking of each attempt. Required gaps remain unresolved until repaired or explicitly addressed by a method amendment. Consensus input and bibliography checks establish a discovery route, not original-report identity or eligibility. The initial-only amendment under Initial supplementary acquisition with unresolved coverage addresses closure of acquisition with a disclosed shortfall; it does not reclassify unresolved coordinates as repaired or waive later update checks.
 
 Kado will trial the criteria and recording instructions on varied boundary cases before fixing the formal AI procedure, with uncertainty forwarded. Purposeful cases test operation and boundaries; they do not provide representative speed or recall estimates. The workload assessment will cover input preparation, complete AI processing, human reference validation, exclusion auditing, unresolved cases, full-text retrieval and assessment, corrections and analysis. Successful operation does not establish feasibility. Required checks that cannot be completed will leave the affected stage incomplete.
 
