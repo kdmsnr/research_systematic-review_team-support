@@ -13,6 +13,10 @@ This systematic review will examine the contexts in which support for product de
 
 The scope covers shared work on conceiving, designing, implementing, prototyping or evaluating products, services or software, including workplace teams and educational development projects connected to practice. Consequences may concern shared work, participating members, development resources or progress, and shared outputs; favorable, adverse, mixed and null results qualify. Qualitative material will undergo source-based coding, descriptive grouping and thematic comparison. Quantitative outcomes and associations will be organized separately in narrative tables retaining their designs, measures, estimates and uncertainty. Their relation to the qualitative findings may be examined without converting numerical results into qualitative findings, pooling effects, or counting significant or favorable findings as evidence of effectiveness.
 
+### Development of the review
+
+Version 0.9 (July 2026) planned to examine changes in the provision of leadership and team support functions in project teams and their reported relationships with team processes and outcomes. Version 1.0 (22 October 2026) set out a revised, noticing-focused review of support for development teams, with AI-assisted screening and human validation. Version 1.8 (25 October 2026), adopted after exploratory extraction and draft analysis, required a support-linked consequence to be reported in the full text as an eligibility condition. Search and assessment dates are reported separately.
+
 ### Subjects
 
 Group and team research; product management; product and service development; organizational behavior; workplace learning; coaching and mentoring; design education; software engineering.
@@ -79,7 +83,7 @@ The 169 PDFs will be reread under the revised question, including verification o
 
 ### Start date
 
-Preparatory work began on 18 October 2026. Primary metadata retrieval began on 20 October 2026 at 00:43:06 UTC. Search execution, method confirmation and public recording, and the start of formal human screening will retain their actual dates and be reported separately.
+Preparatory work for the present review design began on 18 October 2026. Primary metadata retrieval for this design began on 20 October 2026 at 00:43:06 UTC. Search execution, method confirmation and public recording, and the start of formal human screening will retain their actual dates and be reported separately.
 
 ### End date
 
