@@ -2,7 +2,7 @@
 
 This repository hosts the protocol for *Support Practices and Reported Consequences in Product Development Teams*, a systematic review of empirical studies.
 
-[Read the protocol](protocol/protocol.md) — version 1.8, dated 25 October 2026. The review asks: In what contexts is support for product development teams provided, what support practices are enacted, and what consequences for shared work, participating members and development are reported in connection with that support?
+[Read the protocol](protocol/protocol.md) — version 1.9, dated 31 October 2026. The review asks: In what contexts is support for product development teams provided, what support practices are enacted, and what consequences for shared work, participating members and development are reported in connection with that support?
 
 Eligible evidence reports are peer-reviewed journal articles reporting qualitative, quantitative or mixed-methods empirical studies of an identifiable development team, actual support for its shared work, and at least one relevant body-reported consequence connected to that support. Favorable, adverse, mixed and null results qualify. Practitioner noticing and interpretation are optional; their absence is not an exclusion. A support role, planned intervention, participant count or intended benefit alone does not establish an eligible support–consequence result. Effects of a finished product or clinical service on customers or patients alone are outside the team-consequence criterion.
 
@@ -15,3 +15,5 @@ The current fixed reanalysis pool comprises 170 human-unconfirmed source records
 Version 1.3 introduced bounded abstract availability; version 1.4 centred noticing and contextual interpretation; version 1.6 defined the eligible report type as empirical journal research; and version 1.7 added consequences while retaining the noticing requirement. Version 1.8 supersedes that requirement: body-reported team consequences replace practitioner noticing as C4, and quantitative empirical studies no longer require a qualitative component. The amendment follows exploratory AI analyses and precedes the new reanalysis; earlier codes, themes and candidate judgments are not carried forward as required findings or formal human decisions.
 
 Supplementary materials will be added only when required by reporting guidelines or the target journal. The protocol is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Version 1.9 changes future Google Scholar searches to the direct browser interface. The initial SerpApi and browser records and their unresolved coverage remain distinct. The eight general expressions, bounds and other review methods are unchanged.
