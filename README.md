@@ -2,7 +2,7 @@
 
 This repository hosts the protocol for *Support Practices and Reported Consequences in Product Development Teams*, a systematic review of empirical studies.
 
-[Read the protocol](protocol/protocol.md) — version 1.11, dated 1 November 2026. The review asks: In what contexts is support for product development teams provided, what support practices are enacted, and what consequences for shared work, participating members and development are reported in connection with that support?
+[Read the protocol](protocol/protocol.md) — version 1.12, dated 1 November 2026. The review asks: In what contexts is support for product development teams provided, what support practices are enacted, and what consequences for shared work, participating members and development are reported in connection with that support?
 
 Eligible evidence reports are peer-reviewed journal articles reporting qualitative, quantitative or mixed-methods empirical studies of an identifiable development team, actual support for its shared work, and at least one relevant body-reported consequence connected to that support. Favorable, adverse, mixed and null results qualify. Practitioner noticing and interpretation are optional; their absence is not an exclusion. A support role, planned intervention, participant count or intended benefit alone does not establish an eligible support–consequence result. Effects of a finished product or clinical service on customers or patients alone are outside the team-consequence criterion.
 
@@ -21,3 +21,5 @@ Version 1.9 changes future Google Scholar searches to the direct browser interfa
 Version 1.10 replaces the fixed three-month limit and automatic pre-submission keyword rerun with a documented assessment of whether searches need updating. Citation tracing and the procedures for any update and new candidates remain as specified in the protocol.
 
 Version 1.11 specifies English as the search-language setting and excludes citation-only entries for the requested Google Scholar re-search and future supplementary searches. English full-text eligibility is unchanged.
+
+Version 1.12 uses SerpApi for the requested current Google Scholar re-search. The expressions, English-only search language, citation and patent exclusions, and 200-position bounds are unchanged. Future updates use the browser unless subsequently amended.
