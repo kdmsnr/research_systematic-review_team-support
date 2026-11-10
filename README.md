@@ -1,6 +1,6 @@
-# Systematic Review of Support for Product Development Teams
+# Protocol for a Qualitative Systematic Review of Support for Development Teams
 
-This repository hosts the protocol for *Support Practices and Reported Consequences in Product Development Teams*, a systematic review of empirical studies.
+This repository hosts the protocol for a qualitative systematic review of support for development teams. On 10 November 2026, the protocol title and repository location were updated; the protocol methods and version were not changed.
 
 [Read the protocol](protocol.md) — version 1.15, dated 8 November 2026. The review asks: In what contexts is support for product development teams provided, what support practices are enacted, and what consequences for shared work, participating members and development are reported in connection with that support?
 

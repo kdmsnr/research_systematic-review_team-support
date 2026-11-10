@@ -1,4 +1,4 @@
-# Support Practices and Reported Consequences in Product Development Teams: A Systematic Review Protocol
+# Protocol for a Qualitative Systematic Review of Support for Development Teams
 
 **Protocol version:** 1.15.
 **Protocol date:** 8 November 2026 (Japan Standard Time).
