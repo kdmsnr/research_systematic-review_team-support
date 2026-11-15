@@ -40,8 +40,7 @@ The following resources document the review's searches, selected reports and ana
 2. [Bibliography of selected reports](online-resources/ESM_2.pdf).
 3. [Selected accounts: handling contributions and experiences of participation](online-resources/ESM_3.pdf).
 4. [Classification codes and source index](online-resources/ESM_4.xlsx).
-5. [Review protocol, version 1.15](online-resources/ESM_5.pdf).
-6. [Report-level methodological appraisals](online-resources/ESM_6.pdf).
-7. [Report characteristics](online-resources/ESM_7.pdf).
+5. [Report-level methodological appraisals](online-resources/ESM_5.pdf).
+6. [Report characteristics](online-resources/ESM_6.pdf).
 
-The authors' original contributions to these resources are licensed under [CC BY 4.0](LICENSE). Any third-party material remains subject to its own rights. Online Resource 5 reproduces the [protocol version 1.15 at commit `c531219`](https://github.com/kdmsnr/research_systematic-review_team-support/blob/c53121901ec816422db98ea3b08532190e14bf27/protocol/protocol.md), with names and contact details replaced by role labels or omitted. The classification codes in Online Resource 4 are analytical labels; this repository does not contain the analysis program or the internal research database.
+The authors' original contributions to these resources are licensed under [CC BY 4.0](LICENSE). Any third-party material remains subject to its own rights. The classification codes in Online Resource 4 are analytical labels; this repository does not contain the analysis program or the internal research database.
