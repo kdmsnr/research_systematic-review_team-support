@@ -14,7 +14,7 @@ At the time of the version 1.8 amendment, the provisional reanalysis pool compri
 
 Version 1.3 introduced bounded abstract availability; version 1.4 centred noticing and contextual interpretation; version 1.6 defined the eligible report type as empirical journal research; and version 1.7 added consequences while retaining the noticing requirement. Version 1.8 supersedes that requirement: body-reported team consequences replace practitioner noticing as C4, and quantitative empirical studies no longer require a qualitative component. The amendment follows exploratory AI analyses and precedes the new reanalysis; earlier codes, themes and candidate judgments are not carried forward as required findings or formal human decisions.
 
-Supplementary materials will be added only when required by reporting guidelines or the target journal. The protocol is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The protocol is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Supplementary materials are listed below.
 
 Version 1.9 changes future Google Scholar searches to the direct browser interface. The initial SerpApi and browser records and their unresolved coverage remain distinct. The eight general expressions, bounds and other review methods are unchanged.
 
@@ -31,3 +31,17 @@ Version 1.14 discontinues further backward and forward citation tracing. The par
 Version 1.15 recorded the source-based description, coding and comparison workflow and the status of its candidate outputs at that time. The relationship between the shared displays and any separate organization of quantitative results remains under review.
 
 Version 1.16 clarifies the order of the five eligibility conditions and the distinction between title-and-abstract assessment of support and full-text assessment of consequences. It also records the review lead’s DeepDyve availability rule. On 15 November 2026, the review lead reported that humans checked and approved AI-generated candidates across the review and provided guardrails and example answers; this does not establish independent duplicate review or approval of later candidates.
+
+## Online resources
+
+The following resources document the review's searches, selected reports and analysis:
+
+1. [Search strategies and information sources](online-resources/ESM_1.pdf).
+2. [Bibliography of selected reports](online-resources/ESM_2.pdf).
+3. [Selected accounts: handling contributions and experiences of participation](online-resources/ESM_3.pdf).
+4. [Classification codes and source index](online-resources/ESM_4.xlsx).
+5. [Review protocol, version 1.15](online-resources/ESM_5.pdf).
+6. [Report-level methodological appraisals](online-resources/ESM_6.pdf).
+7. [Report characteristics](online-resources/ESM_7.pdf).
+
+The authors' original contributions to these resources are licensed under [CC BY 4.0](LICENSE). Any third-party material remains subject to its own rights. Online Resource 5 reproduces the [protocol version 1.15 at commit `c531219`](https://github.com/kdmsnr/research_systematic-review_team-support/blob/c53121901ec816422db98ea3b08532190e14bf27/protocol/protocol.md), with names and contact details replaced by role labels or omitted. The classification codes in Online Resource 4 are analytical labels; this repository does not contain the analysis program or the internal research database.
