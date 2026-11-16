@@ -14,7 +14,7 @@ At the time of the version 1.8 amendment, the provisional reanalysis pool compri
 
 Version 1.3 introduced bounded abstract availability; version 1.4 centred noticing and contextual interpretation; version 1.6 defined the eligible report type as empirical journal research; and version 1.7 added consequences while retaining the noticing requirement. Version 1.8 supersedes that requirement: body-reported team consequences replace practitioner noticing as C4, and quantitative empirical studies no longer require a qualitative component. The amendment follows exploratory AI analyses and precedes the new reanalysis; earlier codes, themes and candidate judgments are not carried forward as required findings or formal human decisions.
 
-The protocol is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Supplementary materials are listed below.
+The protocol is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The supplementary material is listed below.
 
 Version 1.9 changes future Google Scholar searches to the direct browser interface. The initial SerpApi and browser records and their unresolved coverage remain distinct. The eight general expressions, bounds and other review methods are unchanged.
 
@@ -32,15 +32,8 @@ Version 1.15 recorded the source-based description, coding and comparison workfl
 
 Version 1.16 clarifies the order of the five eligibility conditions and the distinction between title-and-abstract assessment of support and full-text assessment of consequences. It also records the review lead’s DeepDyve availability rule. On 15 November 2026, the review lead reported that humans checked and approved AI-generated candidates across the review and provided guardrails and example answers; this does not establish independent duplicate review or approval of later candidates.
 
-## Online resources
+## Supplementary material
 
-The following resources document the review's searches, selected reports and analysis:
+[Supplementary material: search methods and included reports](supplementary-material.md) contains the search strategies, citations and available characteristics of the included reports, report-level JBI appraisal decisions and their scope, and source locations for four comparison accounts. Individual JBI item rationales and the description-level coding index are not included.
 
-1. [Search strategies and information sources](online-resources/ESM_1.pdf).
-2. [Bibliography of selected reports](online-resources/ESM_2.pdf).
-3. [Selected accounts: handling contributions and experiences of participation](online-resources/ESM_3.pdf).
-4. [Classification codes and source index](online-resources/ESM_4.xlsx).
-5. [Report-level methodological appraisals](online-resources/ESM_5.pdf).
-6. [Report characteristics](online-resources/ESM_6.pdf).
-
-The authors' original contributions to these resources are licensed under [CC BY 4.0](LICENSE). Any third-party material remains subject to its own rights. The classification codes in Online Resource 4 are analytical labels; this repository does not contain the analysis program or the internal research database.
+The authors' original contributions are licensed under [CC BY 4.0](LICENSE). Any third-party material remains subject to its own rights. This repository does not contain the analysis program or the internal research database.
