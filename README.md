@@ -34,6 +34,6 @@ Version 1.16 clarifies the order of the five eligibility conditions and the dist
 
 ## Supplementary material
 
-[Supplementary material: search methods and included reports](supplementary-material.md) contains the search strategies, citations and available characteristics of the included reports, report-level JBI appraisal decisions and their scope, and source locations for four comparison accounts. Individual JBI item rationales and the description-level coding index are not included.
+[Supplementary material: search methods and included reports](supplementary-material/) contains the search strategies, citations and available characteristics of the included reports, report-level JBI appraisal decisions and their scope, and source locations for four comparison accounts. Individual JBI item rationales and the description-level coding index are not included.
 
 The authors' original contributions are licensed under [CC BY 4.0](LICENSE). Any third-party material remains subject to its own rights. This repository does not contain the analysis program or the internal research database.
