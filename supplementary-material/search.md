@@ -1,5 +1,7 @@
 # Search strategies and information sources
 
+This is provisional supplementary material based on the current six-condition analysis, separate from the earlier five-criterion supplement. Report-level No and Unknown candidates and reports with no eligible descriptions are excluded; unrecorded decisions remain unassessed. A listed report can retain some descriptions while others are excluded because correspondence to assessed components was not established; this is not a report-level No. Characteristics describe the reported settings or cases and do not establish that every result was assessed. Publication does not establish author approval of the underlying AI candidates.
+
 The authors' original contributions are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); any third-party material remains subject to its own rights.
 
 The searches, settings, and coverage below are based on retained search records. Times are UTC where shown.
