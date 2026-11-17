@@ -1,5 +1,7 @@
 # JBI appraisal decisions and scope
 
+**Update, 17 November 2026:** These files reflect the earlier five-condition corpus. A sixth methodological eligibility condition was added after analysis; its application and the related reassessment are in progress. The report list and appraisals below have not yet been reconciled with the provisional analysis and do not establish a completed six-condition corpus. See [protocol v1.17](../protocol.md).
+
 The authors' original contributions are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); any third-party material remains subject to its own rights.
 
 Report and case scopes are distinguished. A missing characteristic means it was not extracted; it does not establish that it was not reported. Some text is withheld where it overlaps source passages.

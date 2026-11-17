@@ -1,5 +1,7 @@
 # Supplementary material
 
+**Update, 17 November 2026:** These files reflect the earlier five-condition corpus. A sixth methodological eligibility condition was added after analysis; its application and the related reassessment are in progress. The report list and appraisals below have not yet been reconciled with the provisional analysis and do not establish a completed six-condition corpus. See [protocol v1.17](../protocol.md).
+
 The files below accompany the systematic review of support for development teams. Report numbers correspond across the report characteristics and JBI appraisal files. Reports are not assumed to be independent studies.
 
 - [Search strategies and information sources](search.md)
