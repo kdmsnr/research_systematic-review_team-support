@@ -2,7 +2,7 @@
 
 The authors' original contributions are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); any third-party material remains subject to its own rights.
 
-This is provisional supplementary material based on the current six-condition analysis, separate from the earlier five-criterion supplement. Report-level No and Unknown candidates and reports with no eligible descriptions are excluded; unrecorded decisions remain unassessed. A listed report can retain some descriptions while others are excluded because correspondence to assessed components was not established; this is not a report-level No. Characteristics describe the reported settings or cases and do not establish that every result was assessed. Publication does not establish author approval of the underlying AI candidates.
+This is provisional supplementary material based on the current six-condition analysis, separate from the earlier five-criterion supplement. Report-level No and Unknown candidates and reports with no eligible descriptions are excluded; unrecorded decisions remain unassessed. A listed report can retain some descriptions while others are excluded because correspondence to assessed components was not established; this is not a report-level No. A separate description was excluded because the support function of the reported assignments could not be established. Characteristics describe the reported settings or cases and do not establish that every result was assessed. Publication does not establish author approval of the underlying AI candidates.
 
 Report and case scopes are distinguished. A missing characteristic means it was not extracted; it does not establish that it was not reported. Some text is withheld where it overlaps source passages.
 
@@ -1466,6 +1466,8 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 - Report: A research team of five convened and facilitated the co-design group.
 
 ### 82. Shen, Luyao; Zhang, Zhongyue; Wei, Qianjie; Lik-Hang, Lee; Hui, Pan; Fan, Mingming (2026). Understanding and Designing Technology to Support Mentoring Functions in Chinese Design Teams. *International Journal of Human-Computer Interaction*. https://doi.org/10.1080/10447318.2026.2651347
+
+Analysis scope, separate from JBI appraisal: One description concerning a mentee's low-cost assignments was excluded because the support function of the assignments could not be established. Other descriptions from this report remain in the provisional analysis.
 
 **Study design:** qualitative interview study.
 

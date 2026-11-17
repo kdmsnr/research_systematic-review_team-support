@@ -1,8 +1,8 @@
 # Provisional supplementary material
 
-This is provisional supplementary material based on the current six-condition analysis, separate from the earlier five-criterion supplement. Report-level No and Unknown candidates and reports with no eligible descriptions are excluded; unrecorded decisions remain unassessed. A listed report can retain some descriptions while others are excluded because correspondence to assessed components was not established; this is not a report-level No. Characteristics describe the reported settings or cases and do not establish that every result was assessed. Publication does not establish author approval of the underlying AI candidates.
+This is provisional supplementary material based on the current six-condition analysis, separate from the earlier five-criterion supplement. Report-level No and Unknown candidates and reports with no eligible descriptions are excluded; unrecorded decisions remain unassessed. A listed report can retain some descriptions while others are excluded because correspondence to assessed components was not established; this is not a report-level No. A separate description was excluded because the support function of the reported assignments could not be established. Characteristics describe the reported settings or cases and do not establish that every result was assessed. Publication does not establish author approval of the underlying AI candidates.
 
-At the time of preparation, this material includes 92 reports; 39 have some descriptions excluded from the analysis.
+At the time of preparation, this material includes 92 reports. In 39 reports, some descriptions were excluded because correspondence to assessed components was not established. Separately, one description from Shen et al. was excluded because the support function of the reported assignments could not be established; the report remains represented by other descriptions.
 
 The files below accompany the systematic review of support for development teams. Report numbers correspond across the report characteristics and JBI appraisal files. Reports are not assumed to be independent studies.
 
