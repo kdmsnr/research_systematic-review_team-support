@@ -696,7 +696,7 @@ Provisional analysis scope: 6 descriptions are retained; 2 descriptions are excl
 
 **Study:** 1:U; 2:Y; 3:Y; 4:Y; 5:Y; 6:U; 7:U; 8:Y; 9:Y; 10:Y.
 
-### 71. Gomes, Jorge; De Weerd–Nederhof, Petra C.; Pearson, Alan; Fisscher, Olaf A.M. (2001). Senior management support in the new product development process. *Creativity and Innovation Management*. https://doi.org/10.1111/1467-8691.00226
+### 71. Gomes, Jorge; de Weerd-Nederhof, Petra C.; Pearson, Alan; Fisscher, Olaf A.M. (2001). Senior management support in the new product development process. *Creativity and Innovation Management*. https://doi.org/10.1111/1467-8691.00226
 
 Provisional analysis scope: 1 description is retained; 1 description is excluded because correspondence to assessed components was not established. This is not a report-level No.
 

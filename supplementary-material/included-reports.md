@@ -1267,7 +1267,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Observed New Zealand team meeting: A team member who had contacted the customer provided requirements and clarified doubts.
 
-### 71. Gomes, Jorge; De Weerd–Nederhof, Petra C.; Pearson, Alan; Fisscher, Olaf A.M. (2001). Senior management support in the new product development process. *Creativity and Innovation Management*. https://doi.org/10.1111/1467-8691.00226
+### 71. Gomes, Jorge; de Weerd-Nederhof, Petra C.; Pearson, Alan; Fisscher, Olaf A.M. (2001). Senior management support in the new product development process. *Creativity and Innovation Management*. https://doi.org/10.1111/1467-8691.00226
 
 - Provisional scope: 1 description is retained and 1 description is excluded because correspondence to assessed components was not established among the affected source records. This is not a report-level No.
 
