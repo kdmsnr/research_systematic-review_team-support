@@ -1,6 +1,6 @@
 # Provisional supplementary material
 
-This is provisional supplementary material based on the current six-condition analysis, separate from the earlier five-criterion supplement. Report-level No and Unknown candidates and reports with no eligible descriptions are excluded; unrecorded decisions remain unassessed. A listed report can retain some descriptions while others are excluded because correspondence to assessed components was not established; this is not a report-level No. A separate description was excluded because the support function of the reported assignments could not be established. Characteristics describe the reported settings or cases and do not establish that every result was assessed. Publication does not establish author approval of the underlying AI candidates.
+This is provisional supplementary material based on the current six-condition analysis, separate from the earlier five-criterion supplement. Report-level No and Unknown candidates and reports with no eligible descriptions are excluded; unrecorded decisions remain unassessed. A listed report can retain some descriptions while others are excluded because correspondence to assessed components was not established; this is not a report-level No. A separate description was excluded because the support function of the reported assignments could not be established. Characteristics describe the reported settings or cases and do not establish that every result was assessed. The review lead confirmed the exclusion of the 30 reports with an Unknown sixth-criterion assessment. The other sixth-criterion decisions remain provisional.
 
 At the time of preparation, this material includes 92 reports. In 39 reports, some descriptions were excluded because correspondence to assessed components was not established. Separately, one description from Shen et al. was excluded because the support function of the reported assignments could not be established; the report remains represented by other descriptions.
 
@@ -16,7 +16,7 @@ The authors' original contributions are available under [CC BY 4.0](https://crea
 
 ## Source locations for the selected comparison
 
-The following four accounts inform the comparison of how contributions were handled and participants' experiences. Page numbers are physical PDF pages. The accounts concern different people and situations and do not establish a common causal pathway.
+The review compared accounts of support and its consequences across all 92 included reports. Of the four accounts below, the first three directly informed the finding about how contributors experienced the handling of their ideas. The fourth illustrates its boundary. How typical these experiences were across the reports is unknown. Page numbers are physical PDF pages. The accounts concern different people and situations and do not establish a common causal pathway.
 
 - Vermeulen et al. (2014), telecare products and services. <https://doi.org/10.2196/jmir.3195>. Physical PDF pages: 5, 6.
 - Nendauni (2026), university writing-centre resources. <https://doi.org/10.1080/07294360.2026.2643245>. Physical PDF page: 9.
