@@ -903,7 +903,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 **Support:**
 
-- Case — TAR design team: Ethics advisors asked about how an emergency shutdown would be handled.
+- Case — TAR design team: Ethics advisors asked about how an emergency shutdown would be handled. We excluded the TAR description from the synthesis. The two retained descriptions concerned separate teams designing a motorcycle helmet display and an electric toy sword.
 
 ### 51. Klünder, Jil; Trommer, Felix; Prenner, Nils (2022). How agile coaches create an agile mindset in development teams: Insights from an interview study. *Journal of Software Evolution and Process*. https://doi.org/10.1002/smr.2491
 
