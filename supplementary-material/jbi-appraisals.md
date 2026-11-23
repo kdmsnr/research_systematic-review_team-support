@@ -41,7 +41,7 @@ Provisional analysis scope: 1 description is retained; 1 description is excluded
 
 ### 3. Srivastava, Pallavi; Jain, Shilpi (2017). A leadership framework for distributed self-organized scrum teams. *Team Performance Management*. https://doi.org/10.1108/tpm-06-2016-0033
 
-Provisional analysis scope: 2 descriptions are retained; 7 descriptions are excluded under the component assessment rule.
+Provisional analysis scope: 5 descriptions are retained; 4 descriptions are excluded under the component assessment rule.
 
 **Full checklist:** Q.
 
@@ -80,7 +80,7 @@ Provisional analysis scope: 1 description is retained; 2 descriptions are exclud
 
 ### 8. Brown, Phil; Baldassarre, Brian; Konietzko, Jan; Bocken, Nancy; Balkenende, Ruud (2021). A tool for collaborative circular proposition design. *Journal of Cleaner Production*. https://doi.org/10.1016/j.jclepro.2021.126354
 
-Provisional analysis scope: 4 descriptions are retained; 2 descriptions are excluded under the component assessment rule.
+Provisional analysis scope: 5 descriptions are retained; 1 description is excluded under the component assessment rule.
 
 **Full checklist:** Q.
 
@@ -959,7 +959,7 @@ Provisional analysis scope: 2 descriptions are retained; 1 description is exclud
 
 ### 92. Trischler, Jakob; Kristensson, Per; Scott, Don (2018). Team diversity and its management in a co-design team. *Journal of service management*. https://doi.org/10.1108/josm-10-2016-0283
 
-Provisional analysis scope: 1 description is retained; 13 descriptions are excluded under the component assessment rule.
+Provisional analysis scope: 6 descriptions are retained; 8 descriptions are excluded under the component assessment rule.
 
 **Full checklist:** Q. Design recorded for the assessment: qualitative component of mixed method field experiments.
 

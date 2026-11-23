@@ -50,7 +50,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 3. Srivastava, Pallavi; Jain, Shilpi (2017). A leadership framework for distributed self-organized scrum teams. *Team Performance Management*. https://doi.org/10.1108/tpm-06-2016-0033
 
-- Provisional scope: 2 descriptions are retained and 7 descriptions are excluded under the component assessment rule.
+- Provisional scope: 5 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
 
 **Study design:** Two-phase qualitative interview study.
 
@@ -142,7 +142,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 8. Brown, Phil; Baldassarre, Brian; Konietzko, Jan; Bocken, Nancy; Balkenende, Ruud (2021). A tool for collaborative circular proposition design. *Journal of Cleaner Production*. https://doi.org/10.1016/j.jclepro.2021.126354
 
-- Provisional scope: 4 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
+- Provisional scope: 5 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative component of mixed methods design science evaluation.
 
@@ -1655,7 +1655,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 92. Trischler, Jakob; Kristensson, Per; Scott, Don (2018). Team diversity and its management in a co-design team. *Journal of service management*. https://doi.org/10.1108/josm-10-2016-0283
 
-- Provisional scope: 1 description is retained and 13 descriptions are excluded under the component assessment rule.
+- Provisional scope: 6 descriptions are retained and 8 descriptions are excluded under the component assessment rule.
 
 **Study design:** Controlled field experiment with team allocation method unreported; qualitative component of mixed method field experiments.
 
