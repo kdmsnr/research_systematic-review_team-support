@@ -1,41 +1,13 @@
 # Protocol for a Qualitative Systematic Review of Support for Development Teams
 
-This repository hosts the protocol for a qualitative systematic review of support for development teams. On 10 November 2026, the protocol title and repository location were updated; the protocol methods and version were not changed.
+[Read the review procedures](protocol.md)
 
-[Read protocol version 1.18](protocol.md), dated 23 November 2026. [Version 1.17](https://github.com/kdmsnr/research_systematic-review_team-support/blob/cfa27f37a27a568af02db33109fc9c177dc5efe3/protocol.md) introduced a sixth eligibility criterion concerning the methodological basis for interpreting a reported link. Version 1.15, dated 8 November 2026, is available at commit `fb0e4b313a9ddab9a487b04224bf0c3c51241986` (title and location corrected); the original text is fixed at commit `c53121901ec816422db98ea3b08532190e14bf27`. The review asks: In what contexts is support for product development teams provided, what support practices are enacted, and what consequences for shared work, participating members and development are reported in connection with that support?
+- [Search and deduplication](protocol.md#identify-and-deduplicate-records)
+- [Eligibility and screening](protocol.md#screen-records-and-assess-reports)
+- [Extraction](protocol.md#extract-descriptions-from-the-original-reports)
+- [Classification for RQ1 and RQ2](protocol.md#classify-practices-and-outcomes-for-rq1-and-rq2)
+- [Appraisal and selection for synthesis](protocol.md#appraise-components-and-select-whole-descriptions-for-synthesis)
+- [Comparison for RQ3](protocol.md#comparison-of-support-and-outcomes-for-rq3)
+- [Interpretation and confidence assessment](protocol.md#interpret-the-comparisons-and-assess-confidence)
 
-Version 1.18 records work performed during manuscript revision. On 22 November, Codex checked all extracted descriptions from provisionally eligible reports that had contributed none to the initial synthesis. The expanded synthesis comprised 234 descriptions from 110 reports. On 23 November, the review compared support directed toward people or toward the work with the outcomes reported for each. The [RQ3 comparison](protocol.md#comparison-of-support-and-outcomes-for-rq3) gives the definitions, units, denominators, and scope of this retrospective analysis.
-
-Eligible evidence reports are peer-reviewed journal articles reporting qualitative, quantitative or mixed-methods empirical studies of an identifiable development team, actual support for its shared work, and at least one relevant body-reported consequence connected to that support. Favorable, adverse, mixed and null results qualify. Practitioner noticing and interpretation are optional; their absence is not an exclusion. A support role, planned intervention, participant count or intended benefit alone does not establish an eligible support–consequence result. Effects of a finished product or clinical service on customers or patients alone are outside the team-consequence criterion.
-
-Source-linked descriptions of support and reported outcomes have been coded separately, and candidate themes and dimensions have been developed from the English-language reports. The candidate trees and description-level co-occurrence table include descriptions containing quantitative as well as qualitative results. Co-occurrence identifies shared coding within a description; it does not establish the independent effect of a practice or a causal relationship. Quantitative findings are distinguished from qualitative accounts, with the reported design and measures retained. The manuscript uses the common classification to compare outcomes across study designs and gives the reported measures and units for quantitative examples. No meta-analysis or pooled estimate is planned. JBI tools are selected by study design. GRADE-CERQual applies to qualitative synthesis findings, not quantitative summaries or an overarching theoretical model; new assessments and classifications will be reviewed before adoption.
-
-English full text, the bounded usable-abstract requirement, all search expressions and retrieval bounds, and source-based human eligibility decisions remain required. The review lead reports conducting title-and-abstract screening validation and an exclusion audit; the available records do not specify their scope, procedures or results. AI candidates do not establish completed human eligibility decisions. Conference papers, theses, books and ordinary book chapters remain outside scope. Any future Google Scholar searches use eight general queries at 200 positions each; all saved initial observations and the documented 35-coordinate shortfall remain recorded.
-
-At the time of the version 1.8 amendment, the provisional reanalysis pool comprised 170 human-unconfirmed source records corresponding to 169 PDFs, selected through abstract-reported consequences and subsequent body-level AI assessment. Among 226 PDF-linked source records with positive first-four AI judgments at that time, another 56 source records were body-unassessed under the new outcome criterion; they were not formal No decisions. The 169-PDF pool did not establish completed application of the revised criteria to all candidates. These figures describe the version 1.8 preparation, not the current evidence set.
-
-Version 1.3 introduced bounded abstract availability; version 1.4 centred noticing and contextual interpretation; version 1.6 defined the eligible report type as empirical journal research; and version 1.7 added consequences while retaining the noticing requirement. Version 1.8 supersedes that requirement: body-reported team consequences replace practitioner noticing as C4, and quantitative empirical studies no longer require a qualitative component. The amendment follows exploratory AI analyses and precedes the new reanalysis; earlier codes, themes and candidate judgments are not carried forward as required findings or formal human decisions.
-
-The protocol is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The supplementary material is listed below.
-
-Version 1.9 changes future Google Scholar searches to the direct browser interface. The initial SerpApi and browser records and their unresolved coverage remain distinct. The eight general expressions, bounds and other review methods are unchanged.
-
-Version 1.10 replaced the fixed three-month limit and automatic pre-submission keyword rerun with a documented assessment of whether searches needed updating. Citation tracing and the procedures for any update and new candidates remained as specified at that time.
-
-Version 1.11 specifies English as the search-language setting and excludes citation-only entries for the requested Google Scholar re-search and future supplementary searches. English full-text eligibility is unchanged.
-
-Version 1.12 uses SerpApi for the requested current Google Scholar re-search. The expressions, English-only search language, citation and patent exclusions, and 200-position bounds are unchanged. Future updates use the browser unless subsequently amended.
-
-Version 1.13 removes the requirement to assess and record whether keyword searches need updating before submission. Any later search will be recorded and its candidates assessed under the applicable procedures.
-
-Version 1.14 discontinues further backward and forward citation tracing. The partial backward reference-list work and discovered candidates remain recorded; review-wide forward citation tracing was not performed. Incomplete coverage will not be presented as a completed citation search.
-
-Version 1.15 recorded the source-based description, coding and comparison workflow and the status of its candidate outputs at that time. At that time, the relationship between the shared displays and the planned separate quantitative tables was still under review.
-
-Version 1.16 clarifies the order of the five eligibility conditions and the distinction between title-and-abstract assessment of support and full-text assessment of consequences. It also records the review lead’s DeepDyve availability rule. On 15 November 2026, the review lead reported that humans checked and approved AI-generated candidates across the review and provided guardrails and example answers; this does not establish independent duplicate review or approval of later candidates.
-
-## Supplementary material
-
-[Supplementary material: search methods and included reports](supplementary-material/) contains the search strategies, citations and available characteristics of the included reports, report-level JBI appraisal decisions and their scope, and source locations for four comparison accounts. Individual JBI item rationales and the description-level coding index are not included.
-
-The authors' original contributions are licensed under [CC BY 4.0](LICENSE). Any third-party material remains subject to its own rights. This repository does not contain the analysis program or the internal research database.
+[Supplementary material](supplementary-material/) · [Protocol version history](https://github.com/kdmsnr/research_systematic-review_team-support/commits/main/protocol.md) · [License](LICENSE)
