@@ -1,6 +1,6 @@
 # Protocol for a Qualitative Systematic Review of Support for Development Teams
 
-[Read the review procedures](protocol.md)
+[Read the review procedures (v1.20)](protocol.md)
 
 - [Search and deduplication](protocol.md#identify-and-deduplicate-records)
 - [Eligibility and screening](protocol.md#screen-records-and-assess-reports)
