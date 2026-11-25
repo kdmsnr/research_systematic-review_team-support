@@ -2,15 +2,13 @@
 
 The authors' original contributions are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); any third-party material remains subject to its own rights.
 
-The synthesis includes descriptions that met the six-condition review criteria. A report with an eligible component could contribute only those descriptions whose support and outcomes were attributable to eligible components. Descriptions involving an ineligible or unresolved component, or lacking a complete match to eligible components, were excluded. Characteristics describe each report or case and can extend beyond the findings used in the synthesis. The review lead confirmed exclusion of the 30 reports with an unresolved report-level assessment. Individual sixth-criterion assessments include provisional judgements.
+The synthesis includes descriptions that met the six-condition review criteria. A report with an eligible component could contribute only those descriptions whose support and outcomes were attributable to eligible components. Descriptions involving an ineligible or unresolved component, or lacking a complete match to eligible components, were excluded. Characteristics describe each report or case and can extend beyond the findings used in the synthesis. The review lead reported human review of the eligibility decisions from the component checks on 22 and 24 November 2026. The synthesis also incorporates later reassessments based on selected JBI items. The appraisal file gives the scope of the recorded judgments.
 
 Report and case scopes are distinguished. A missing characteristic means it was not extracted; it does not establish that it was not reported. Some text is withheld where it overlaps source passages.
 
-The review lead reported on 15 November 2026 that AI-generated candidates across the review were checked and approved by a human. This report does not establish approval of candidates created after that statement.
-
 ### 1. Williams, Irith; Brereton, Margot; Donovan, Jared; McDonald, Karalyn; Millard, Tanya; Tam, Alex; Elliott, Julian H. (2014). A Collaborative Rapid Persona-Building Workshop: Creating Design Personas with Health Researchers. *International Journal of Sociotechnology and Knowledge Development*. https://doi.org/10.4018/ijskd.2014040102
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 - Bibliographic note: the PDF title above differs from the source-record title.
 - PDF bibliographic note: The checked PDF is an author-submitted manuscript; the publisher version was not independently checked for the title.
 
@@ -50,7 +48,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 3. Srivastava, Pallavi; Jain, Shilpi (2017). A leadership framework for distributed self-organized scrum teams. *Team Performance Management*. https://doi.org/10.1108/tpm-06-2016-0033
 
-- Provisional scope: 5 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 5 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
 
 **Study design:** Two-phase qualitative interview study.
 
@@ -88,7 +86,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 5. Letourneau, Susan M.; Bennett, Dorothy; McMillan Culp, Katherine; Mohabir, Priya; Schloss, Dana; Liu, ChangChia James; Honey, Margaret (2021). A Shift in Authority: Applying Transformational and Distributed Leadership Models to Create Inclusive Informal STEM Learning Environments. *Curator The Museum Journal*. https://doi.org/10.1111/cura.12418
 
-- Provisional scope: 1 description is retained and 2 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 2 descriptions are excluded under the component assessment rule.
 
 **Study design:** Reflective qualitative institutional case accounts.
 
@@ -142,7 +140,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 8. Brown, Phil; Baldassarre, Brian; Konietzko, Jan; Bocken, Nancy; Balkenende, Ruud (2021). A tool for collaborative circular proposition design. *Journal of Cleaner Production*. https://doi.org/10.1016/j.jclepro.2021.126354
 
-- Provisional scope: 5 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 5 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative component of mixed methods design science evaluation.
 
@@ -162,7 +160,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 9. Elizabeth A O’Donnell; Aricca D Van Citters; Inas S Khayal; Matthew M Wilson; David Gustafson; Amber E Barnato; Andrea C Buccellato; Colleen Young; Megan M Holthoff; Eugene Korsunskiy; Stephanie C Tomlin; Amelia M Cullinan; Alexandra C Steinbaugh; Jennifer J Hinson; Kristen R Johnson; Andrew Williams; Ruth M Thomson; Janet M Haines; Anne B Holmes; Ann D Bradley; Eugene C Nelson; Kathryn B Kirkland (2024). A Web-Based Peer Support Network to Help Care Partners of People With Serious Illness: Co-Design Study. *JMIR Human Factors*. https://doi.org/10.2196/53194
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Descriptive co-design process with a reported design outcome; Descriptive group-weighted priority ratings in a co-design process.
 
@@ -198,7 +196,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 11. Sarah M. Wilson; Judith Montenegro; Lisvel A. Matos; Carrie B. Dombeck; Carolina Mejia; Jamilah Taylor; Aleida Espinal; Megan A. Reaves; Cristofer Navas; Samantha Fortier; Reeva Kandel; Amy Corneli (2026). Acción PrEP: A Multi‐Method Pilot Design to Assess the Feasibility of Community Co‐Designed Implementation Strategies to Advance PrEP Uptake Among Latines in the U.S. South. *Journal of the International AIDS Society*. https://doi.org/10.1002/jia2.70196
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative thematic analysis of pilot implementer interviews within multimethod implementation study.
 
@@ -218,7 +216,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 12. Groen, Robert P. (2024). Action learning within the Dutch public sector: tools for facilitators. *Action Learning Research and Practice*. https://doi.org/10.1080/14767333.2023.2293400
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative practitioner case account.
 
@@ -256,7 +254,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 14. Salihu, Yazidu; Bass, Julian; Iyawa, Gloria (2024). ACTIVITIES TAILORING WITHIN AGILE SCRUM ROLES: A CASE OF NIGERIAN HEALTHCARE INFORMATION SYSTEMS DEVELOPMENT. *Journal of international technology and information management*. https://doi.org/10.58729/1941-6679.1603
 
-- Provisional scope: 1 description is retained and 3 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 3 descriptions are excluded under the component assessment rule.
 
 **Study design:** Qualitative case study with grounded-theory-informed analysis.
 
@@ -276,7 +274,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 15. Áine Aventin; Stephan Rabie; Sarah Skeen; Mark Tomlinson; Moroesi Makhetha; Zanele Siqabatiso; Maria Lohan; Mike Clarke; Lynne Lohfeld; Allen Thurston; Jackie Stewart (2021). Adaptation of a gender-transformative sexual and reproductive health intervention for adolescent boys in South Africa and Lesotho using intervention mapping. *Global Health Action*. https://doi.org/10.1080/16549716.2021.1927329
 
-**Study design:** Focus groups in participatory intervention mapping (author approval not established); Participatory intervention mapping using focus-group and literature findings (author approval not established).
+**Study design:** Focus groups in participatory intervention mapping (candidate stage: approval was not covered by the earlier review record); Participatory intervention mapping using focus-group and literature findings (candidate stage: approval was not covered by the earlier review record).
 
 **Setting:**
 
@@ -308,7 +306,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 ### 17. Pádraig Cantillon-Murphy; John McSweeney; Louise Burgoyne; Colm O’Tuathaigh; Siún O’Flynn; George Shorten (2015). Addressing Biomedical Problems Through Interdisciplinary Learning: A Feasibility Study. *International Journal of Engineering Education*. [DOI not recorded]
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 - PDF bibliographic note: Publisher proof; first-page proof header identifies volume 31, number 1(B), 2015; final pagination and version are not confirmed.
 
 **Study design:** Qualitative focus-group feedback within a feasibility study.
@@ -343,9 +341,25 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: During mentoring, coaches provided daily support and facilitated activities including planning, estimation, retrospectives and daily meetings.
 
-### 19. Salihu, Yazidu Buba; Bass, Julian Michael; Iyawa, Gloria Ejehiohen (2026). An Empirical Process Model for Agile Practitioners Developing Healthcare Software. *IET Software*. https://doi.org/10.1049/sfw2/6862755
+### 19. Laduca, Brian; Ausdenmoore, Adrienne; Katz-Buonincontro, Jen; Hallinan, Kevin Patrick; Marshall, Karlos (2017). An Arts-Based Instructional Model for Student Creativity in Engineering Design. *International Journal of Engineering Pedagogy (iJEP)*. https://doi.org/10.3991/ijep.v7i1.6335
 
-- Provisional scope: 4 descriptions are retained and 1 description is excluded under the component assessment rule.
+**Study design:** Descriptive stakeholder-feedback account within an interdisciplinary action-research pilot.
+
+**Setting:**
+
+- Case — Unmanned-aircraft team: A student team worked on a lifesaver-drone concept.
+
+**Participants:**
+
+- Report — Two summer pilots: Each summer pilot supported twelve student interns from multiple disciplines.
+
+**Support:**
+
+- Case — Unmanned-aircraft team: Police and emergency medical professionals gave input on the team’s proposed drone.
+
+### 20. Salihu, Yazidu Buba; Bass, Julian Michael; Iyawa, Gloria Ejehiohen (2026). An Empirical Process Model for Agile Practitioners Developing Healthcare Software. *IET Software*. https://doi.org/10.1049/sfw2/6862755
+
+- Synthesis scope: 4 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative interviews and model evaluation across four phases.
 
@@ -361,9 +375,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Nigerian practitioner P20: A practitioner described removing obstacles and facilitating sprint ceremonies.
 
-### 20. Spiegler, Simone V.; Heinecke, Christoph; Wagner, Stefan (2021). An empirical study on changing leadership in agile teams. *Empirical Software Engineering*. https://doi.org/10.1007/s10664-021-09949-5
+### 21. Spiegler, Simone V.; Heinecke, Christoph; Wagner, Stefan (2021). An empirical study on changing leadership in agile teams. *Empirical Software Engineering*. https://doi.org/10.1007/s10664-021-09949-5
 
-- Provisional scope: 6 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 6 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
 
 **Study design:** Constructivist grounded theory.
 
@@ -380,7 +394,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: Some Scrum Masters reported adapting the Scrum method to teams.
 
-### 21. Anna Jolliff; Ryan J. Coller; Hannah Kearney; Gemma Warner; James A. Feinstein; Michelle A. Chui; Steve O'Brien; Misty Willey; Barbara Katz; Theodore D. Bach; Nicole E. Werner (2024). An mHealth Design to Promote Medication Safety in Children with Medical Complexity. *Applied Clinical Informatics*. https://doi.org/10.1055/a-2214-8000
+### 22. Anna Jolliff; Ryan J. Coller; Hannah Kearney; Gemma Warner; James A. Feinstein; Michelle A. Chui; Steve O'Brien; Misty Willey; Barbara Katz; Theodore D. Bach; Nicole E. Werner (2024). An mHealth Design to Promote Medication Safety in Children with Medical Complexity. *Applied Clinical Informatics*. https://doi.org/10.1055/a-2214-8000
 
 - PDF bibliographic note: The accepted manuscript appeared online in 2023; the journal article was published online in January 2024.
 - Bibliographic note: the source record lists 2023; the journal year above follows the verified PDF.
@@ -400,9 +414,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Co-design facilitation: The facilitator invited quieter participants to contribute.
 
-### 22. Jane Farmer; Karen Carlisle; Virginia Dickson-Swift; Simon Teasdale; Amanda Kenny; Judy Taylor; Felicity Croker; Karen Marini; Mark Gussy (2018). Applying social innovation theory to examine how community co-designed health services develop: using a case study approach and mixed methods. *BMC Health Services Research*. https://doi.org/10.1186/s12913-018-2852-0
+### 23. Jane Farmer; Karen Carlisle; Virginia Dickson-Swift; Simon Teasdale; Amanda Kenny; Judy Taylor; Felicity Croker; Karen Marini; Mark Gussy (2018). Applying social innovation theory to examine how community co-designed health services develop: using a case study approach and mixed methods. *BMC Health Services Research*. https://doi.org/10.1186/s12913-018-2852-0
 
-- Provisional scope: 3 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 3 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
 
 **Study design:** Abductive qualitative comparative case study.
 
@@ -418,7 +432,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: External facilitation brought resources together.
 
-### 23. Bart Daemen; Konstantinos Tsilionis; Oktay Turetken (2025). Balancing organizational alignment, team autonomy, and control in large-scale agile organizations. *Information and Software Technology*. https://doi.org/10.1016/j.infsof.2025.107998
+### 24. Bart Daemen; Konstantinos Tsilionis; Oktay Turetken (2025). Balancing organizational alignment, team autonomy, and control in large-scale agile organizations. *Information and Software Technology*. https://doi.org/10.1016/j.infsof.2025.107998
 
 **Study design:** Interpretive qualitative case study.
 
@@ -434,7 +448,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: Standards were collectively established and disseminated across the organization.
 
-### 24. Samantha Scarpinella; Courtney Cole; Sarah Ritter; Susan Mohammad; Kathryn Jablokow; Scarlett Miller (2023). Can We Get an Intervention, Please? The Utility of Teaming Interventions on Engineering Design Student Psychological Safety. *Journal of Mechanical Design*. https://doi.org/10.1115/1.4062395
+### 25. Samantha Scarpinella; Courtney Cole; Sarah Ritter; Susan Mohammad; Kathryn Jablokow; Scarlett Miller (2023). Can We Get an Intervention, Please? The Utility of Teaming Interventions on Engineering Design Student Psychological Safety. *Journal of Mechanical Design*. https://doi.org/10.1115/1.4062395
 
 **Study design:** Non-randomized historical cohort comparison.
 
@@ -450,7 +464,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — First-year engineering design course: Instructor-led reflection and staged videos introduced team psychological safety and four role assignments. Note: The paper reports this feature for the specified course and cohorts.
 
-### 25. Conyers, Hayley; Sakuma, Yoshiko; Jannaway, Tracey; Cowan, Alex; Tucker, Joseph D.; Kpokiri, Eneyi Edith; Wu, Dan (2025). Co-creating inclusive sexual health services for middle-aged and older adults, including disabled people, in England: an innovative participatory approach within the field of sexual health. *Sexual Health*. https://doi.org/10.1071/sh25022
+### 26. Conyers, Hayley; Sakuma, Yoshiko; Jannaway, Tracey; Cowan, Alex; Tucker, Joseph D.; Kpokiri, Eneyi Edith; Wu, Dan (2025). Co-creating inclusive sexual health services for middle-aged and older adults, including disabled people, in England: an innovative participatory approach within the field of sexual health. *Sexual Health*. https://doi.org/10.1071/sh25022
 
 **Study design:** Qualitative facilitator evaluation of participatory co-creation.
 
@@ -466,9 +480,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: Community leaders with lived experience partnered with the research team to co-design and co-organise sessions.
 
-### 26. Nendauni, Lutendo (2026). Co-creating writing support: reimagining students as pedagogical partners in a South African writing centre. *Higher Education Research & Development*. https://doi.org/10.1080/07294360.2026.2643245
+### 27. Nendauni, Lutendo (2026). Co-creating writing support: reimagining students as pedagogical partners in a South African writing centre. *Higher Education Research & Development*. https://doi.org/10.1080/07294360.2026.2643245
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Participatory action research.
 
@@ -484,7 +498,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: Tutors and student co-researchers planned the workshops and facilitated them together.
 
-### 27. Mary Anne Lagmay Tanay; Jo Armes; Catherine Oakley; Lesley Sage; Deb Tanner; Jose Roca; Liz Bryson; Barbara Greenall; Lauren Urwin; Toni Wyatt; Glenn Robert (2022). Co-designing a cancer care intervention: reflections of participants and a doctoral researcher on roles and contributions. *Research Involvement and Engagement*. https://doi.org/10.1186/s40900-022-00373-7
+### 28. Mary Anne Lagmay Tanay; Jo Armes; Catherine Oakley; Lesley Sage; Deb Tanner; Jose Roca; Liz Bryson; Barbara Greenall; Lauren Urwin; Toni Wyatt; Glenn Robert (2022). Co-designing a cancer care intervention: reflections of participants and a doctoral researcher on roles and contributions. *Research Involvement and Engagement*. https://doi.org/10.1186/s40900-022-00373-7
 
 **Study design:** Reflexive qualitative thematic analysis of co-design experiences.
 
@@ -500,9 +514,25 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: An oncology nurse and doctoral student facilitated all the co-design workshops.
 
-### 28. David Clarke; Karolina Gombert-Waldron; Stephanie Honey; Geoffrey Cloud; Ruth Harris; Alastair Macdonald; Christopher McKevitt; Glenn Robert; Fiona Jones (2021). Co-designing organisational improvements and interventions to increase inpatient activity in four stroke units in England: a mixed-methods process evaluation using normalisation process theory. *BMJ Open*. https://doi.org/10.1136/bmjopen-2020-042723
+### 29. Patricia Abril-Jiménez; Beatriz Merino-Barbancho; Cecilia Vera-Muñoz; María Teresa Arredondo Waldmeyer (2021). Co-designing a remote rehabilitation tool for Parkinson’s disease: exploratory values and challenges. *BMC Neurology*. https://doi.org/10.1186/s12883-021-02519-8
 
-- Provisional scope: 3 descriptions are retained and 1 description is excluded under the component assessment rule.
+**Study design:** Qualitative co-design sessions with interviews and focus groups.
+
+**Setting:**
+
+- Report — Parkinson co-design sessions: A remote Parkinson rehabilitation tool was co-designed in Spain.
+
+**Participants:**
+
+- Report — Seven workshops, as reported in body: The body reports 84 participants across seven workshops; the abstract reports six sessions, and Table 1 professional subcategories sum to 23 while the body and Figure 2 give 24.
+
+**Support:**
+
+- Case — Researcher-guided sessions: The research team guided the discussion in each workshop.
+
+### 30. David Clarke; Karolina Gombert-Waldron; Stephanie Honey; Geoffrey Cloud; Ruth Harris; Alastair Macdonald; Christopher McKevitt; Glenn Robert; Fiona Jones (2021). Co-designing organisational improvements and interventions to increase inpatient activity in four stroke units in England: a mixed-methods process evaluation using normalisation process theory. *BMJ Open*. https://doi.org/10.1136/bmjopen-2020-042723
+
+- Synthesis scope: 3 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative process evaluation within mixed-methods case comparison.
 
@@ -518,7 +548,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: The Point of Care Foundation led EBCD or AEBCD training attended by members from each stroke team.
 
-### 29. Madison Leggatt; Nicole C. George; Syrine Gamra; Paola Leal; Catherine Paquet; Alayne M. Adams (2025). Co-designing social prescribing pathways: guidance on the use of deliberative dialogues for inclusive implementation. *BMC Primary Care*. https://doi.org/10.1186/s12875-025-03041-3
+### 31. Madison Leggatt; Nicole C. George; Syrine Gamra; Paola Leal; Catherine Paquet; Alayne M. Adams (2025). Co-designing social prescribing pathways: guidance on the use of deliberative dialogues for inclusive implementation. *BMC Primary Care*. https://doi.org/10.1186/s12875-025-03041-3
 
 **Study design:** Qualitative synthesis of participatory activities.
 
@@ -536,9 +566,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Local deliberative dialogues: The facilitator asked breakout-room participants whether anyone wanted to add to or modify each listed barrier.
 
-### 30. James Durl; Jakob Trischler; Timo Dietrich (2017). Co-designing with young consumers – reflections, challenges and benefits. *Young Consumers Insight and Ideas for Responsible Marketers*. https://doi.org/10.1108/yc-08-2017-00725
+### 32. James Durl; Jakob Trischler; Timo Dietrich (2017). Co-designing with young consumers – reflections, challenges and benefits. *Young Consumers Insight and Ideas for Responsible Marketers*. https://doi.org/10.1108/yc-08-2017-00725
 
-- Provisional scope: 3 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 3 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** qualitative study of youth co-design sessions within a broader trial.
 
@@ -554,7 +584,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: Research team members observed and facilitated the co-design session.
 
-### 31. Mary Darking; Helen Ayles; Steve Belemu; Paloma Chausa; Francisco J. Gárate; Enrique J. Gómez; Melleh Gondwe; David Lane; Deborah Kaluba-Milimo; Monde Mwamba; Musonda Simwinga; Jennifer Whetham; Jaime H. Vera (2026). Co-producing access to care with young people living in Zambia through digital and vending machine-enabled innovation in sexual and reproductive health: A place-based, human-centred design research approach. *PLoS ONE*. https://doi.org/10.1371/journal.pone.0356398
+### 33. Mary Darking; Helen Ayles; Steve Belemu; Paloma Chausa; Francisco J. Gárate; Enrique J. Gómez; Melleh Gondwe; David Lane; Deborah Kaluba-Milimo; Monde Mwamba; Musonda Simwinga; Jennifer Whetham; Jaime H. Vera (2026). Co-producing access to care with young people living in Zambia through digital and vending machine-enabled innovation in sexual and reproductive health: A place-based, human-centred design research approach. *PLoS ONE*. https://doi.org/10.1371/journal.pone.0356398
 
 **Study design:** Place-based qualitative co-production and design research.
 
@@ -570,7 +600,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Phase One workshops: Youth co-design leads and the research team set out potential pathway components around the workshop space.
 
-### 32. Lynn M. Rose; Fiona Wills; Connie Bourassa-Shaw; Terri L. Butler; Jeanette Griscavage Ennis; Kim Emmons; Patrick Shelby; Meher Antia; Kim Folger Bruce (2017). Collaborative academic medical product development: An 8-year review of commercialization outcomes at the Institute of Translational Health Sciences. *Journal of Clinical and Translational Science*. https://doi.org/10.1017/cts.2017.13
+### 34. Lynn M. Rose; Fiona Wills; Connie Bourassa-Shaw; Terri L. Butler; Jeanette Griscavage Ennis; Kim Emmons; Patrick Shelby; Meher Antia; Kim Folger Bruce (2017). Collaborative academic medical product development: An 8-year review of commercialization outcomes at the Institute of Translational Health Sciences. *Journal of Clinical and Translational Science*. https://doi.org/10.1017/cts.2017.13
 
 **Study design:** Descriptive retrospective interview questionnaire within an institutional program review.
 
@@ -586,7 +616,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — DDAC consultation: The committee supplied scientific and regulatory guidance.
 
-### 33. Hanna Aarnio; Kaiju Kangas; Maria Clavert; Auli Toom (2025). Collaborative assessment in design-based technology education. *International Journal of Child-Computer Interaction*. https://doi.org/10.1016/j.ijcci.2025.100779
+### 35. Hanna Aarnio; Kaiju Kangas; Maria Clavert; Auli Toom (2025). Collaborative assessment in design-based technology education. *International Journal of Child-Computer Interaction*. https://doi.org/10.1016/j.ijcci.2025.100779
 
 **Study design:** Qualitative ethnographic video study.
 
@@ -602,9 +632,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — A teacher–pupil interaction: A teacher helped a pupil choose a background colour for game cards.
 
-### 34. Potari, Despina; Psycharis, Giorgos; Sakonidis, Charalampos; Zachariades, Theodossios (2019). Collaborative Design of a Reform-Oriented Mathematics Curriculum: Contradictions and Boundaries across Teaching, Research, and Policy. *Educational Studies in Mathematics*. https://doi.org/10.1007/s10649-018-9834-3
+### 36. Potari, Despina; Psycharis, Giorgos; Sakonidis, Charalampos; Zachariades, Theodossios (2019). Collaborative Design of a Reform-Oriented Mathematics Curriculum: Contradictions and Boundaries across Teaching, Research, and Policy. *Educational Studies in Mathematics*. https://doi.org/10.1007/s10649-018-9834-3
 
-- Provisional scope: 2 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 2 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative activity-theory case study of curriculum design.
 
@@ -620,9 +650,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: The coordinator brought educational policy products to the design team.
 
-### 35. Maria Paasivaara; Casper Lassenius (2014). Communities of practice in a large distributed agile software development organization – Case Ericsson. *Information and Software Technology*. https://doi.org/10.1016/j.infsof.2014.06.008
+### 37. Maria Paasivaara; Casper Lassenius (2014). Communities of practice in a large distributed agile software development organization – Case Ericsson. *Information and Software Technology*. https://doi.org/10.1016/j.infsof.2014.06.008
 
-- Provisional scope: 1 description is retained and 4 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 4 descriptions are excluded under the component assessment rule.
 
 **Study design:** qualitative longitudinal case study.
 
@@ -638,7 +668,23 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Scrum Master community of practice: Participants in the Scrum Master community of practice discussed team challenges and tried to find solutions together.
 
-### 36. Melody Taba; Julie Ayre; Kirsten McCaffery; Diana Vassilenko; Ivan C. K. Ma; Tara Haynes; Julie Leask; Andrew Wilson; Carissa Bonner (2025). Co‐Designing a Framework for Social Media Health Communication to Young People: A Participatory Research Study. *Health Expectations*. https://doi.org/10.1111/hex.70203
+### 38. Nathan Davies; Megan Armstrong; Jennifer S. Pigott; Danielle Nimmons; Joy Read; Benjamin Gardner; Bev Maydon; Anette Schrag; Kate Walters (2024). Co‐Design of a Facilitated Self‐Management Toolkit for People With Parkinson's Disease. *Health Expectations*. https://doi.org/10.1111/hex.70104
+
+**Study design:** Iterative toolkit co-design with think-aloud user tests.
+
+**Setting:**
+
+- Report — Toolkit co-design: Co-design included health and care professionals from community and hospital settings in the Greater London region.
+
+**Participants:**
+
+- Case — Prototype user testing: Not reproduced because of quotation or overlap with source text.
+
+**Support:**
+
+- Case — Think-aloud testing: Users vocalized their thoughts while performing prototype tasks.
+
+### 39. Melody Taba; Julie Ayre; Kirsten McCaffery; Diana Vassilenko; Ivan C. K. Ma; Tara Haynes; Julie Leask; Andrew Wilson; Carissa Bonner (2025). Co‐Designing a Framework for Social Media Health Communication to Young People: A Participatory Research Study. *Health Expectations*. https://doi.org/10.1111/hex.70203
 
 **Study design:** Participatory action research with qualitative co-design workshops.
 
@@ -654,7 +700,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Workshop live illustration: Participants gave a professional illustrator feedback on an evolving workshop graphic.
 
-### 37. Kernot, Joclyn; Kiriam, Shoshannah; Seekamp, Sarah; Little, Kate; Hunt, Kellie; Lister, Erin; Maher, Carol; Brinsley, Jacinta (2026). Co‐Designing Wellbeing Initiatives With Rural Adolescents: What Works, What Doesn't, and Why. *Health Promotion Journal of Australia*. https://doi.org/10.1002/hpja.70221
+### 40. Kernot, Joclyn; Kiriam, Shoshannah; Seekamp, Sarah; Little, Kate; Hunt, Kellie; Lister, Erin; Maher, Carol; Brinsley, Jacinta (2026). Co‐Designing Wellbeing Initiatives With Rural Adolescents: What Works, What Doesn't, and Why. *Health Promotion Journal of Australia*. https://doi.org/10.1002/hpja.70221
 
 **Study design:** Qualitative component of participatory mixed methods evaluation.
 
@@ -670,7 +716,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Workshop 1: Facilitators used video to introduce an overview of wellbeing.
 
-### 38. Ian C. Odland; Joseph Borrello; Layla Fattah; Tyree D. Williams; Kevin D. Costa; David Putrino; Brian Nickerson; Holly Oemke; Turner Baker; James McKay; Dov B. Shamir; Juan Quijano; Janice Gabrilove (2025). Design and implementation of a Targeted HealthcaRe InnoVation & Entrepreneurship (THRIVE) fellowship program. *PLOS One*. https://doi.org/10.1371/journal.pone.0328153
+### 41. Ian C. Odland; Joseph Borrello; Layla Fattah; Tyree D. Williams; Kevin D. Costa; David Putrino; Brian Nickerson; Holly Oemke; Turner Baker; James McKay; Dov B. Shamir; Juan Quijano; Janice Gabrilove (2025). Design and implementation of a Targeted HealthcaRe InnoVation & Entrepreneurship (THRIVE) fellowship program. *PLOS One*. https://doi.org/10.1371/journal.pone.0328153
 
 **Study design:** Descriptive post-program questionnaire within a retrospective program evaluation.
 
@@ -686,7 +732,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — THRIVE 2022–2023 fellowship cohort: Faculty mentors supported teams with expertise and prototyping-related synthesis; program mentors helped with project challenges.
 
-### 39. Lee, Kung Jin; Martin, Caitlin Kennedy; Björling, Elin A.; Rubio, Juan; McLean, Ryan; Lee, Jin Ha (2026). Design cookbook card deck in facilitating effective co-design in library contexts. *Journal of Librarianship and Information Science*. https://doi.org/10.1177/09610006241307385
+### 42. Lee, Kung Jin; Martin, Caitlin Kennedy; Björling, Elin A.; Rubio, Juan; McLean, Ryan; Lee, Jin Ha (2026). Design cookbook card deck in facilitating effective co-design in library contexts. *Journal of Librarianship and Information Science*. https://doi.org/10.1177/09610006241307385
 
 - Bibliographic note: the source record lists 2025; the journal year above follows the verified PDF.
 
@@ -704,9 +750,25 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: A customized card deck supported discussion and programming on teen mental health in the libraries. Note: The cited passage directly supports this description.
 
-### 40. Sangiorgi, Daniela (2015). Designing for public sector innovation in the UK: design strategies for paradigm shifts. *foresight*. https://doi.org/10.1108/fs-08-2013-0041
+### 43. Connor T. Dodd; Marc T. P. Adam; Samantha J. Stewart; Janelle L. Windus; Megan E. Rollo (2024). Design of a Semi-Automated System for Dietary Assessment of Image-Voice Food Records. *IEEE Access*. https://doi.org/10.1109/access.2024.3505199
 
-- Provisional scope: 3 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
+**Study design:** Design science co-design, formative feedback component.
+
+**Setting:**
+
+- Report — VISIDA CMS co-design: Interdisciplinary research project developing a web-based dietary assessment system, with collaborators working in-country and remotely. Note: Context concerns the CMS development team, rather than dietary-record respondents.
+
+**Participants:**
+
+- Report — VISIDA CMS co-design: Researchers from nutrition and computing collaborated; the team included eventual system users, identified as Australian research dietitians. Team size is not reported. Note: The 178 individuals providing dietary data are not the development team.
+
+**Support:**
+
+- Report — VISIDA CMS co-design: Research dietitians and nutrition stakeholders evaluated prototypes and shared practical input during iterative development and after using the system. Note: Support refers to expert feedback informing system development, not the system assisting dietary-data users.
+
+### 44. Sangiorgi, Daniela (2015). Designing for public sector innovation in the UK: design strategies for paradigm shifts. *foresight*. https://doi.org/10.1108/fs-08-2013-0041
+
+- Synthesis scope: 3 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
 
 **Study design:** qualitative interview based field study.
 
@@ -722,7 +784,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — NHS Experience-Based Design exemplar: In one NHS service-improvement project, a patient and staff video was used in a co-design workshop to identify improvements. Note: The cited passage directly supports this description.
 
-### 41. Kathryn Hymes; Jessica Hammer; Hakan Seyalioglu; Carol Dow-Richards; Deidra Brown; Trish Hambridge; Jill Ventrice; Meguey Baker; Yeonsoo Julian Kim; Tim Hutchings; William S. Evans (2021). Designing Game-Based Rehabilitation Experiences for People with Aphasia. *Proceedings of the ACM on Human-Computer Interaction*. https://doi.org/10.1145/3474697
+### 45. Kathryn Hymes; Jessica Hammer; Hakan Seyalioglu; Carol Dow-Richards; Deidra Brown; Trish Hambridge; Jill Ventrice; Meguey Baker; Yeonsoo Julian Kim; Tim Hutchings; William S. Evans (2021). Designing Game-Based Rehabilitation Experiences for People with Aphasia. *Proceedings of the ACM on Human-Computer Interaction*. https://doi.org/10.1145/3474697
 
 **Study design:** Qualitative participatory game design with interviews and reflective thematic analysis.
 
@@ -738,7 +800,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: Workshop communication support included slowed speech and writing. Note: The cited passage directly supports this description.
 
-### 42. Hill, Jordan R; Ganci, Aaron; Campbell, Noll L; Pickett, Andrew C; Chui, Michelle A; Abebe, Ephrem; Holden, Richard J (2026). Developing mHealth IT for Older Adult Medication Safety: Remote Participatory Co-Design Using the RAPID Method. *JMIR Human Factors*. https://doi.org/10.2196/82366
+### 46. Hill, Jordan R; Ganci, Aaron; Campbell, Noll L; Pickett, Andrew C; Chui, Michelle A; Abebe, Ephrem; Holden, Richard J (2026). Developing mHealth IT for Older Adult Medication Safety: Remote Participatory Co-Design Using the RAPID Method. *JMIR Human Factors*. https://doi.org/10.2196/82366
 
 **Study design:** Qualitative practice-based co-design reflections.
 
@@ -754,7 +816,39 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: Each session was supported by three to four research-team members, including a lead facilitator. Note: The cited passage directly supports this description.
 
-### 43. April Savoy; Himalaya Patel; Umber Shahid; Alexis D Offner; Hardeep Singh; Traber D Giardina; Ashley N D Meyer (2022). Electronic Co-design (ECO-design) Workshop for Increasing Clinician Participation in the Design of Health Services Interventions: Participatory Design Approach. *JMIR Human Factors*. https://doi.org/10.2196/37313
+### 47. Mursyidhan Ariefbillah A.M.; Royana Afwani; Ramaditia Dwiyansaputra; Akhmad Saufi (2024). Development of Android Based Halal Tourism Application For Travelers Using Scrum Method. *Journal of Information System Research (JOSH)*. https://doi.org/10.47065/josh.v5i4.5588
+
+**Study design:** Software project account with sprint reviews and a separate usability survey.
+
+**Setting:**
+
+- Case — Tourism application project: Workshops at the Grand Madani Hotel informed the tourism application project.
+
+**Participants:**
+
+- Case — Application development: Academics and the development team took part in sprint reviews.
+
+**Support:**
+
+- Case — Sprint-3 product-owner review: Academics suggested a date-range selection for the order interface.
+
+### 48. Julie M Pike; Courtney M Moore; Lisa G Yazel; Dustin O Lynch; Kathryn M Haberlin-Pittz; Sarah E Wiehe; Tamara S Hannon (2021). Diabetes Prevention in Adolescents: Co-design Study Using Human-Centered Design Methodologies. *JOURNAL OF PARTICIPATORY MEDICINE*. https://doi.org/10.2196/18245
+
+**Study design:** Qualitative formative human-centred design.
+
+**Setting:**
+
+- Report — HCD co-design sessions: Study sessions were held in community and school settings.
+
+**Participants:**
+
+- Report — Four co-design sessions: The reported sessions included professionals, adolescents and parents.
+
+**Support:**
+
+- Case — Drawing activities: Research Jam facilitated the HCD sessions and used drawing activities.
+
+### 49. April Savoy; Himalaya Patel; Umber Shahid; Alexis D Offner; Hardeep Singh; Traber D Giardina; Ashley N D Meyer (2022). Electronic Co-design (ECO-design) Workshop for Increasing Clinician Participation in the Design of Health Services Interventions: Participatory Design Approach. *JMIR Human Factors*. https://doi.org/10.2196/37313
 
 **Study design:** Participatory design case study of online clinician workshops.
 
@@ -770,9 +864,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: Breakout sessions had experienced facilitators, with another facilitator recording, taking notes and monitoring chat. Note: The cited passage directly supports this description.
 
-### 44. Dr. Warda Gul; Prof. Dr. Mohyuddin Tahir Mahmood; Mishal Hasnain Naqvi (2026). Emotional Resilience and Team Performance in Hybrid Agile Fintech Startups in Punjab, Pakistan. *Social science review archives.*. https://doi.org/10.70670/sra.v4i1.2329
+### 50. Dr. Warda Gul; Prof. Dr. Mohyuddin Tahir Mahmood; Mishal Hasnain Naqvi (2026). Emotional Resilience and Team Performance in Hybrid Agile Fintech Startups in Punjab, Pakistan. *Social science review archives.*. https://doi.org/10.70670/sra.v4i1.2329
 
-- Provisional scope: 2 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 2 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Constructivist grounded-theory interview and observation study.
 
@@ -788,9 +882,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: Leaders used traffic-light polls during stand-ups, with members indicating their state using coloured emojis. Note: The cited passage directly supports this description.
 
-### 45. Fay O'Donoghue; Máire T O'Donnell; Tomás P. Griffin; Eileen Fahy; Elaine Newell; Ann‐Marie Creaven (2025). Enablers and Barriers to an Experience‐Based Co‐Design Process to Develop Service Improvements in Enhanced Community Care in Ireland: A Qualitative Study. *Health Expectations*. https://doi.org/10.1111/hex.70206
+### 51. Fay O'Donoghue; Máire T O'Donnell; Tomás P. Griffin; Eileen Fahy; Elaine Newell; Ann‐Marie Creaven (2025). Enablers and Barriers to an Experience‐Based Co‐Design Process to Develop Service Improvements in Enhanced Community Care in Ireland: A Qualitative Study. *Health Expectations*. https://doi.org/10.1111/hex.70206
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative thematic process evaluation.
 
@@ -806,7 +900,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: A document helped service users prepare accounts of their care experiences before the first session. Note: The cited passage directly supports this description.
 
-### 46. Bowen, Simon; Sustar, Helena; Wolstenholme, Daniel; Dearden, Andy (2013). Engaging teenagers productively in service design. *International Journal of Child-Computer Interaction*. https://doi.org/10.1016/j.ijcci.2014.02.001
+### 52. Bowen, Simon; Sustar, Helena; Wolstenholme, Daniel; Dearden, Andy (2013). Engaging teenagers productively in service design. *International Journal of Child-Computer Interaction*. https://doi.org/10.1016/j.ijcci.2014.02.001
 
 **Study design:** Qualitative research through design action research case study.
 
@@ -822,9 +916,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: Three designers acted as facilitators in a series of workshops. Note: The cited passage directly supports this description.
 
-### 47. Roisin Donnelly; Terry Maguire (2020). Establishing and sustaining national partnerships in professional development and the recognition of open courses in teaching and learning through digital badges. *Australasian Journal of Educational Technology*. https://doi.org/10.14742/ajet.5892
+### 53. Roisin Donnelly; Terry Maguire (2020). Establishing and sustaining national partnerships in professional development and the recognition of open courses in teaching and learning through digital badges. *Australasian Journal of Educational Technology*. https://doi.org/10.14742/ajet.5892
 
-- Provisional scope: 4 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 4 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
 
 **Study design:** Qualitative case study of national course-development partnership.
 
@@ -840,7 +934,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: The National Forum supported course developers through workshops and an online collaborative space. Note: The cited passage directly supports this description.
 
-### 48. Wakeling, Simon; Garner, Jane; Hider, Philip; Godfrey, Annie; Jamali, Hamid R. (2026). Evaluating the Effectiveness of a Public Library Codesign Workshop Process. *Journal of the Australian Library and Information Association*. https://doi.org/10.1080/24750158.2025.2540229
+### 54. Wakeling, Simon; Garner, Jane; Hider, Philip; Godfrey, Annie; Jamali, Hamid R. (2026). Evaluating the Effectiveness of a Public Library Codesign Workshop Process. *Journal of the Australian Library and Information Association*. https://doi.org/10.1080/24750158.2025.2540229
 
 - Bibliographic note: the source record lists 2025; the journal year above follows the verified PDF.
 
@@ -860,9 +954,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Library One codesign workshops: A facilitator prompted the community group to move its plan into the library space to help visualisation.
 
-### 49. Vermeulen, Joan; Verwey, Renée; Hochstenbach, Laura MJ; van der Weegen, Sanne; Man, Yan Ping; de Witte, Luc P (2014). Experiences of Multidisciplinary Development Team Members During User-Centered Design of Telecare Products and Services: A Qualitative Study. *Journal of Medical Internet Research*. https://doi.org/10.2196/jmir.3195
+### 55. Vermeulen, Joan; Verwey, Renée; Hochstenbach, Laura MJ; van der Weegen, Sanne; Man, Yan Ping; de Witte, Luc P (2014). Experiences of Multidisciplinary Development Team Members During User-Centered Design of Telecare Products and Services: A Qualitative Study. *Journal of Medical Internet Research*. https://doi.org/10.2196/jmir.3195
 
-- Provisional scope: 3 descriptions are retained and 3 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 3 descriptions are retained and 3 descriptions are excluded under the component assessment rule.
 
 **Study design:** Qualitative interview study across four development teams.
 
@@ -880,7 +974,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Four telecare research and development projects: Researchers visited team members at home or work to provide information or updates.
 
-### 50. Wheeler, Bella; Williams, Oli; Meakin, Becki; Chambers, Eleni; Beresford, Peter; O’Brien, Sarah; Robert, Glenn (2024). Exploring Elinor Ostrom's principles for collaborative group working within a user-led project: lessons from a collaboration between researchers and a user-led organisation. *Research Involvement and Engagement*. https://doi.org/10.1186/s40900-024-00548-4
+### 56. Wheeler, Bella; Williams, Oli; Meakin, Becki; Chambers, Eleni; Beresford, Peter; O’Brien, Sarah; Robert, Glenn (2024). Exploring Elinor Ostrom's principles for collaborative group working within a user-led project: lessons from a collaboration between researchers and a user-led organisation. *Research Involvement and Engagement*. https://doi.org/10.1186/s40900-024-00548-4
 
 **Study design:** Participatory observation interviews and joint reflection.
 
@@ -898,7 +992,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Inclusive Involvement Movement project: Group members used Principle 2 to consider payment and reward for the mentor role.
 
-### 51. Víctor Alonso-Prieto; Yannis Dimitriadis; Sara Lorena Villagrá-Sobrino; Alejandro Ortega-Arranz; Paraskevi Topali; Alejandra Martínez-Monés (2025). Exploring How Teacher Agency Unfolds Within the Co-design of a Smart Learning Environment-Supported Learning Activity: A Case Study. *Journal of Information Technology Education Research*. https://doi.org/10.28945/5615
+### 57. Víctor Alonso-Prieto; Yannis Dimitriadis; Sara Lorena Villagrá-Sobrino; Alejandro Ortega-Arranz; Paraskevi Topali; Alejandra Martínez-Monés (2025). Exploring How Teacher Agency Unfolds Within the Co-design of a Smart Learning Environment-Supported Learning Activity: A Case Study. *Journal of Information Technology Education Research*. https://doi.org/10.28945/5615
 
 **Study design:** Qualitative interpretive single case component with interviews and observed co-design.
 
@@ -916,7 +1010,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — SCARLETT-supported course activity: A beta-testing session familiarised the teacher with the system interface and dashboard.
 
-### 52. Saliba‐Gustafsson, Erika A.; Neufeld, Nicole S. Rodriguez; Hanson, Claudia; Chipeta, Effie Kondwani; Alvesson, Helle Mølsted (2026). Facilitators’ experiences of co-designing an intrapartum care intervention in four sub-Saharan African countries: a qualitative study. *BMJ Open*. https://doi.org/10.1136/bmjopen-2025-109931
+### 58. Saliba‐Gustafsson, Erika A.; Neufeld, Nicole S. Rodriguez; Hanson, Claudia; Chipeta, Effie Kondwani; Alvesson, Helle Mølsted (2026). Facilitators’ experiences of co-designing an intrapartum care intervention in four sub-Saharan African countries: a qualitative study. *BMJ Open*. https://doi.org/10.1136/bmjopen-2025-109931
 
 **Study design:** qualitative interview study using reflexive thematic analysis.
 
@@ -934,9 +1028,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — ALERT hospital co-design project: Facilitators shared interview findings and workshop discussions between the provider and parent groups.
 
-### 53. Støre-Valen, Marit (2021). FM and clinical employees' involvement in the design of eight Norwegian hospital projects. *Facilities*. https://doi.org/10.1108/f-06-2020-0076
+### 59. Støre-Valen, Marit (2021). FM and clinical employees' involvement in the design of eight Norwegian hospital projects. *Facilities*. https://doi.org/10.1108/f-06-2020-0076
 
-- Provisional scope: 2 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 2 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
 
 **Study design:** qualitative multiple case study.
 
@@ -954,9 +1048,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — SNR project technical-solution meeting: A half-day meeting was arranged and travel costs offered for operations and maintenance staff.
 
-### 54. Huizinga, Tjark; Handelzalts, Adam; Nieveen, Nienke; Voogt, Joke (2014). Fostering teachers' design expertise in teacher design teams: conducive design and support activities. *The Curriculum Journal*. https://doi.org/10.1080/09585176.2014.990395
+### 60. Huizinga, Tjark; Handelzalts, Adam; Nieveen, Nienke; Voogt, Joke (2014). Fostering teachers' design expertise in teacher design teams: conducive design and support activities. *The Curriculum Journal*. https://doi.org/10.1080/09585176.2014.990395
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative multiple case study.
 
@@ -974,9 +1068,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Plato teacher design team: Jill provided just-in-time support aligned with the team’s design work and expressed needs.
 
-### 55. Grass, Anastasia; Backmann, Julia; Hoegl, Martin (2020). From Empowerment Dynamics to Team Adaptability: Exploring and Conceptualizing the Continuous Agile Team Innovation Process. *Journal of Product Innovation Management*. https://doi.org/10.1111/jpim.12525
+### 61. Grass, Anastasia; Backmann, Julia; Hoegl, Martin (2020). From Empowerment Dynamics to Team Adaptability: Exploring and Conceptualizing the Continuous Agile Team Innovation Process. *Journal of Product Innovation Management*. https://doi.org/10.1111/jpim.12525
 
-- Provisional scope: 8 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 8 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative interview study using modified grounded theory.
 
@@ -994,7 +1088,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Team described by interviewee 18: The Scrum Master kept trivialities away from the team.
 
-### 56. Geraldine O'Callaghan; Martin Fahy; Patricia Hall; Deirdre McCartan; Peter Langhorne; Rose Galvin; Frances Horgan (2024). From Hospital to Home: Applying a Co‐Design Approach to Determine the Key Components of an Intervention to Support Transition‐To‐Home After Stroke. *Health Expectations*. https://doi.org/10.1111/hex.70040
+### 62. Geraldine O'Callaghan; Martin Fahy; Patricia Hall; Deirdre McCartan; Peter Langhorne; Rose Galvin; Frances Horgan (2024). From Hospital to Home: Applying a Co‐Design Approach to Determine the Key Components of an Intervention to Support Transition‐To‐Home After Stroke. *Health Expectations*. https://doi.org/10.1111/hex.70040
 
 **Study design:** Facilitated co-design workshop and collective prioritisation.
 
@@ -1010,9 +1104,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Three co-design workshops as reported: Researchers and a stroke champion facilitated workshops, using multi-stakeholder subgroups and a structured process to consolidate priorities.
 
-### 57. Andreas Kornmaaler Hansen; Linda Nhu Laursen (2026). From waste materials to product design through micro industrial symbiosis. *Discover Sustainability*. https://doi.org/10.1007/s43621-026-04361-9
+### 63. Andreas Kornmaaler Hansen; Linda Nhu Laursen (2026). From waste materials to product design through micro industrial symbiosis. *Discover Sustainability*. https://doi.org/10.1007/s43621-026-04361-9
 
-- Provisional scope: 18 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 18 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** qualitative multiple case study with action research.
 
@@ -1030,9 +1124,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — ReshapeWaste design field experiments: University facilitators paired manufacturing companies with compatible designers.
 
-### 58. Przybyłek, Adam; Albecka, Marta; Springer, Olga; Kowalski, Wojciech (2022). Game-based Sprint retrospectives: multiple action research. *Empirical Software Engineering*. https://doi.org/10.1007/s10664-021-10043-z
+### 64. Przybyłek, Adam; Albecka, Marta; Springer, Olga; Kowalski, Wojciech (2022). Game-based Sprint retrospectives: multiple action research. *Empirical Software Engineering*. https://doi.org/10.1007/s10664-021-10043-z
 
-- Provisional scope: 2 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 2 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
 - Bibliographic note: the source record lists 2021; the journal year above follows the verified PDF.
 
 **Study design:** Multiple action research qualitative component.
@@ -1051,7 +1145,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — OKE_A software team: Two games were deployed in OKE_A.
 
-### 59. Gren, Lucas; Torkar, Richard; Feldt, Robert (2016). Group development and group maturity when building agile teams: A qualitative and quantitative investigation at eight large companies. *Journal of Systems and Software*. https://doi.org/10.1016/j.jss.2016.11.024
+### 65. Gren, Lucas; Torkar, Richard; Feldt, Robert (2016). Group development and group maturity when building agile teams: A qualitative and quantitative investigation at eight large companies. *Journal of Systems and Software*. https://doi.org/10.1016/j.jss.2016.11.024
 
 **Study design:** Analytical cross-sectional survey component of mixed methods study; Qualitative interview component of mixed-methods study.
 
@@ -1067,9 +1161,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Company F: At Company F, agile start-up squads sometimes facilitated stand-ups, iteration planning and retrospectives.
 
-### 60. Lee, Eun Ah; Gans, Nicholas; Grohman, Magdalena; Tacca, Marco; Brown, Matthew J. (2020). Guiding Engineering Student Teams’ Ethics Discussions with Peer Advising. *Science and Engineering Ethics*. https://doi.org/10.1007/s11948-020-00212-6
+### 66. Lee, Eun Ah; Gans, Nicholas; Grohman, Magdalena; Tacca, Marco; Brown, Matthew J. (2020). Guiding Engineering Student Teams’ Ethics Discussions with Peer Advising. *Science and Engineering Ethics*. https://doi.org/10.1007/s11948-020-00212-6
 
-- Provisional scope: 2 descriptions are retained and 3 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 2 descriptions are retained and 3 descriptions are excluded under the component assessment rule.
 
 **Study design:** Qualitative cognitive ethnography and activity-theory case analysis.
 
@@ -1085,9 +1179,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — TAR design team: Ethics advisors asked about how an emergency shutdown would be handled. We excluded the TAR description from the synthesis. The two retained descriptions concerned separate teams designing a motorcycle helmet display and an electric toy sword.
 
-### 61. Michele V. Manuel; Ann McKenna; Gregory B. Olson (2008). Hierarchical model for coaching technical design teams. *International Journal of Engineering Education*. [DOI not recorded]
+### 67. Michele V. Manuel; Ann McKenna; Gregory B. Olson (2008). Hierarchical model for coaching technical design teams. *International Journal of Engineering Education*. [DOI not recorded]
 
-- Provisional scope: 2 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 2 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
 
 **Study design:** Qualitative preliminary interview study.
 
@@ -1103,7 +1197,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Undergraduate student account: A student reported that mentors helped the team work out the project goal.
 
-### 62. Klünder, Jil; Trommer, Felix; Prenner, Nils (2022). How agile coaches create an agile mindset in development teams: Insights from an interview study. *Journal of Software Evolution and Process*. https://doi.org/10.1002/smr.2491
+### 68. Klünder, Jil; Trommer, Felix; Prenner, Nils (2022). How agile coaches create an agile mindset in development teams: Insights from an interview study. *Journal of Software Evolution and Process*. https://doi.org/10.1002/smr.2491
 
 **Study design:** Qualitative exploratory coach interview study.
 
@@ -1119,9 +1213,27 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: Interviewees reported using agile simulations.
 
-### 63. Peter Scalia; Farhan Ahmad; Danielle Schubbe; Rachel Forcino; Marie-Anne Durand; Paul James Barr; Glyn Elwyn (2021). Integrating Option Grid Patient Decision Aids in the Epic Electronic Health Record: Case Study at 5 Health Systems. *Journal of Medical Internet Research*. https://doi.org/10.2196/22766
+### 69. Jeana M. Holt; AkkeNeel Talsma; Murad H. Taani; Heidi L. Bertram; Ilya Avdeev (2026). Human-Centered Design in Occupational Therapy Education: A Pragmatic Teaching Strategy. *Occupational Therapy In Health Care*. https://doi.org/10.1080/07380577.2026.2702546
 
-- Provisional scope: 3 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
+- PDF bibliographic note: Published online on 11 July 2026; issue publication year is not established in the PDF.
+
+**Study design:** Descriptive educational workshop report with student reflection prompts (candidate stage: approval was not covered by the earlier review record).
+
+**Setting:**
+
+- Report — Occupational therapy HCD workshops: Graduate occupational therapy course at an urban research university.
+
+**Participants:**
+
+- Report — Occupational therapy HCD workshops: Eighty-five graduate occupational therapy students across three workshops.
+
+**Support:**
+
+- Report — Occupational therapy HCD workshops: Facilitators provided design teams with a prompt and introduced the Mission Model Canvas.
+
+### 70. Peter Scalia; Farhan Ahmad; Danielle Schubbe; Rachel Forcino; Marie-Anne Durand; Paul James Barr; Glyn Elwyn (2021). Integrating Option Grid Patient Decision Aids in the Epic Electronic Health Record: Case Study at 5 Health Systems. *Journal of Medical Internet Research*. https://doi.org/10.2196/22766
+
+- Synthesis scope: 3 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
 
 **Study design:** Qualitative exploratory multi-site case study.
 
@@ -1137,9 +1249,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: The study team's Epic technologist shared a build guide they had developed with each institution.
 
-### 64. Gestwicki, Paul; McNely, Brian (2016). Interdisciplinary Projects in the Academic Studio. *ACM Transactions on Computing Education*. https://doi.org/10.1145/2732157
+### 71. Gestwicki, Paul; McNely, Brian (2016). Interdisciplinary Projects in the Academic Studio. *ACM Transactions on Computing Education*. https://doi.org/10.1145/2732157
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Design-based research using ethnography and case studies.
 
@@ -1155,7 +1267,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — 2013 studio: In the 2013 studio, a composer and programmer used pair programming to incorporate music into the game.
 
-### 65. Kyza, Eleni A.; Agesilaou, Andria (2022). Investigating the Processes of Teacher and Researcher Empowerment and Learning in Co-design Settings. *Cognition and Instruction*. https://doi.org/10.1080/07370008.2021.2010213
+### 72. Kyza, Eleni A.; Agesilaou, Andria (2022). Investigating the Processes of Teacher and Researcher Empowerment and Learning in Co-design Settings. *Cognition and Instruction*. https://doi.org/10.1080/07370008.2021.2010213
 
 **Study design:** Qualitative instrumental case study component.
 
@@ -1172,9 +1284,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Focal co-design team: The researcher encouraged other teachers to share when only two were contributing.
 
-### 66. Matuk, Camillia; Hurwich, Talia; Prosperi, Jonathan; Ezer, Yael (2020). Iterations on a Transmedia Game Design Experience for Youth’s Autonomous, Collaborative Learning. *International Journal of Designs for Learning*. https://doi.org/10.14434/ijdl.v11i1.24911
+### 73. Matuk, Camillia; Hurwich, Talia; Prosperi, Jonathan; Ezer, Yael (2020). Iterations on a Transmedia Game Design Experience for Youth’s Autonomous, Collaborative Learning. *International Journal of Designs for Learning*. https://doi.org/10.14434/ijdl.v11i1.24911
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative iterative educational design case.
 
@@ -1190,9 +1302,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — First workshop iteration: In the first iteration, facilitators guided student teams through brainstorming, prototyping, playtesting, and refinement. Note: The cited passage directly supports this description.
 
-### 67. Irene J.M. Muller-Schoof; Marjolein E. A. Verbiest; Miranda Snoeren; Katrien G. Luijkx (2023). Lessons Learned From Co-Designing Educational Programs for Student and Practicing Healthcare Professionals in Nursing Homes: A Participatory Qualitative Study. *Journal of Participatory Research Methods*. https://doi.org/10.35844/001c.57529
+### 74. Irene J.M. Muller-Schoof; Marjolein E. A. Verbiest; Miranda Snoeren; Katrien G. Luijkx (2023). Lessons Learned From Co-Designing Educational Programs for Student and Practicing Healthcare Professionals in Nursing Homes: A Participatory Qualitative Study. *Journal of Participatory Research Methods*. https://doi.org/10.35844/001c.57529
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** participatory qualitative multiple-case descriptive study.
 
@@ -1208,7 +1320,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: The facilitator scheduled monthly meetings and prepared minutes. Note: The cited passage directly supports this description.
 
-### 68. Paretti, Marie; Layton, Richard; Laguette, Stephen; Speegle, Greg (2011). Managing and Mentoring Capstone Design Teams: Considerations and Practices for Faculty. *International journal of engineering education*. [DOI not recorded]
+### 75. Paretti, Marie; Layton, Richard; Laguette, Stephen; Speegle, Greg (2011). Managing and Mentoring Capstone Design Teams: Considerations and Practices for Faculty. *International journal of engineering education*. [DOI not recorded]
 
 - Bibliographic note: the PDF title above differs from the source-record title.
 
@@ -1226,9 +1338,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Faculty accounts of team formation: Some faculty reported allowing students to select their own teams, sometimes subject to requirements for a mix of skills and roles. Note: The cited passage directly supports this description.
 
-### 69. Goffin, Keith; Koners, Ursula; Baxter, David; Van Der Hoven, Chris (2010). Managing Lessons Learned and Tacit Knowledge in New Product Development. *Research-Technology Management*. https://doi.org/10.1080/08956308.2010.11657639
+### 76. Goffin, Keith; Koners, Ursula; Baxter, David; Van Der Hoven, Chris (2010). Managing Lessons Learned and Tacit Knowledge in New Product Development. *Research-Technology Management*. https://doi.org/10.1080/08956308.2010.11657639
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative multiple case study.
 
@@ -1244,7 +1356,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — AppliancesCo: At AppliancesCo, senior managers encouraged reflection and attended post-project reviews. Note: The cited passage directly supports this description.
 
-### 70. Kadenic, Maja Due; Koumaditis, Konstantinos; Junker-Jensen, Louis (2023). Mastering scrum with a focus on team maturity and key components of scrum. *Information and Software Technology*. https://doi.org/10.1016/j.infsof.2022.107079
+### 77. Kadenic, Maja Due; Koumaditis, Konstantinos; Junker-Jensen, Louis (2023). Mastering scrum with a focus on team maturity and key components of scrum. *Information and Software Technology*. https://doi.org/10.1016/j.infsof.2022.107079
 
 - Bibliographic note: the source record lists 2022; the journal year above follows the verified PDF.
 
@@ -1262,9 +1374,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: Most respondents had received Scrum training through formats including company workshops and courses. Note: The cited passage directly supports this description.
 
-### 71. Anne Honey; Gemma Smart; Helen Glover; Naseem Ahmadpour; Yidan Cao; Justin Scanlan; Andrew Povolny; Asha Zappa; Grenville Rose; Lorraine Smith; Mark Orr; Fadzi Marasha; Nicola Hancock (2026). Maximising the ‘co’ in co-design through facilitator actions: co-designers’ perspectives on what makes their participation in co-design meaningful. *BMC Health Services Research*. https://doi.org/10.1186/s12913-026-15335-y
+### 78. Anne Honey; Gemma Smart; Helen Glover; Naseem Ahmadpour; Yidan Cao; Justin Scanlan; Andrew Povolny; Asha Zappa; Grenville Rose; Lorraine Smith; Mark Orr; Fadzi Marasha; Nicola Hancock (2026). Maximising the ‘co’ in co-design through facilitator actions: co-designers’ perspectives on what makes their participation in co-design meaningful. *BMC Health Services Research*. https://doi.org/10.1186/s12913-026-15335-y
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative interview study.
 
@@ -1280,7 +1392,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: After an initial information gap was identified, project information was provided at the start of the second lab. Note: The cited passage directly supports this description.
 
-### 72. Aurelia Engelsberger; Jillian Cavanagh; Timothy Bartram; Beni Halvorsen (2023). Maximizing team development for open innovation in digital product development: the role of collaborative HRM and relational leadership. *Personnel Review*. https://doi.org/10.1108/pr-09-2022-0657
+### 79. Aurelia Engelsberger; Jillian Cavanagh; Timothy Bartram; Beni Halvorsen (2023). Maximizing team development for open innovation in digital product development: the role of collaborative HRM and relational leadership. *Personnel Review*. https://doi.org/10.1108/pr-09-2022-0657
 
 **Study design:** Qualitative longitudinal case study.
 
@@ -1296,7 +1408,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: An external knowledge-exchange partner described training people at the organization to use the partner’s software. Note: The cited passage directly supports this description.
 
-### 73. Alicia Fernandez-Fernandez; Walter Lee Murfee; Jeffrey A. LaMack; Teresa A. Murray (2023). Mentoring for INnovative Design Solutions (MINDS): Key Design Considerations and Collaborative Teamwork across Universities for Clinical Translation. *Biomedical Engineering Education*. https://doi.org/10.1007/s43683-022-00090-3
+### 80. Alicia Fernandez-Fernandez; Walter Lee Murfee; Jeffrey A. LaMack; Teresa A. Murray (2023). Mentoring for INnovative Design Solutions (MINDS): Key Design Considerations and Collaborative Teamwork across Universities for Clinical Translation. *Biomedical Engineering Education*. https://doi.org/10.1007/s43683-022-00090-3
 
 - PDF bibliographic note: The journal issue is dated July 2023; the article was published online on 28 November 2022.
 - Bibliographic note: the source record lists 2022; the journal year above follows the verified PDF.
@@ -1316,7 +1428,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Presentation feedback: Mentors gave a student feedback about their presentation.
 
-### 74. Katherine Kulyk; Caitlyn Cater; Edward Quine; Kyra (Alecx) Motus; Erin Ozarko; Danielle Robitaille; Sophie Offen; Jung-In Choi; David Wood (2026). Operationalising the i-PARiHS framework through iterative PDSA cycles to redesign a transcatheter aortic valve implantation program: a theory-driven implementation study. *Implementation Science Communications*. https://doi.org/10.1186/s43058-026-01118-3
+### 81. Katherine Kulyk; Caitlyn Cater; Edward Quine; Kyra (Alecx) Motus; Erin Ozarko; Danielle Robitaille; Sophie Offen; Jung-In Choi; David Wood (2026). Operationalising the i-PARiHS framework through iterative PDSA cycles to redesign a transcatheter aortic valve implantation program: a theory-driven implementation study. *Implementation Science Communications*. https://doi.org/10.1186/s43058-026-01118-3
 
 **Study design:** Framework-informed qualitative process evaluation.
 
@@ -1332,7 +1444,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: Facilitating stakeholders supported program staff through education, iterative workflow redesign, audit and feedback, and team huddles. Note: The cited passage directly supports this description.
 
-### 75. Juliette Brun; Pascal Le Masson; Benoit Weil (2019). Out of the picture? How incompatible knowledge and distant visual stimuli may foster idea generation. *Creat Innov Manag.*. https://doi.org/10.1111/caim.12311
+### 82. Juliette Brun; Pascal Le Masson; Benoit Weil (2019). Out of the picture? How incompatible knowledge and distant visual stimuli may foster idea generation. *Creat Innov Manag.*. https://doi.org/10.1111/caim.12311
 
 **Study design:** Qualitative case study of a facilitated idea-generation session.
 
@@ -1348,9 +1460,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Picture-based idea generation: A freelance designer facilitated a preparatory meeting using a deck of pictures as prompts for brainstorming.
 
-### 76. Rees Lewis, Daniel G.; Easterday, Matthew W.; Harburg, Emily; Gerber, Elizabeth M.; Riesbeck, Christopher K. (2018). Overcoming barriers between volunteer professionals advising project‐based learning teams with regulation tools. *British Journal of Educational Technology*. https://doi.org/10.1111/bjet.12550
+### 83. Rees Lewis, Daniel G.; Easterday, Matthew W.; Harburg, Emily; Gerber, Elizabeth M.; Riesbeck, Christopher K. (2018). Overcoming barriers between volunteer professionals advising project‐based learning teams with regulation tools. *British Journal of Educational Technology*. https://doi.org/10.1111/bjet.12550
 
-- Provisional scope: 1 description is retained and 2 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 2 descriptions are excluded under the component assessment rule.
 - PDF bibliographic note: The checked PDF displays 2017 and placeholder volume and issue numbers; its relationship to the linked-item 2018 date remains unconfirmed.
 - Bibliographic note: The source record lists 2017; the relationship between versions remains unconfirmed.
 
@@ -1368,9 +1480,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: A facilitator taught teams a weekly goal-setting script used with the StandUp feed. Note: The cited passage directly supports this description.
 
-### 77. Wojciechowski, Lauren; Woubishet Teklu, Emnet; Cheruiyot, Nelson; Gebremeskel, Ruth; Otieno, Christine; Kramer, Julia (2026). Participant satisfaction with workshops to co-design family planning interventions in Ethiopia and Kenya. *CoDesign*. https://doi.org/10.1080/15710882.2026.2711792
+### 84. Wojciechowski, Lauren; Woubishet Teklu, Emnet; Cheruiyot, Nelson; Gebremeskel, Ruth; Otieno, Christine; Kramer, Julia (2026). Participant satisfaction with workshops to co-design family planning interventions in Ethiopia and Kenya. *CoDesign*. https://doi.org/10.1080/15710882.2026.2711792
 
-- Provisional scope: 5 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 5 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative comparative case study.
 
@@ -1386,9 +1498,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — Whole reported project: On-site daycare was available for participants’ children when needed. Note: The cited passage directly supports this description.
 
-### 78. Jonathan Steinke; Berta Ortiz-Crespo; Jacob van Etten; Anna Müller (2021). Participatory design of digital innovation in agricultural research-for-development: insights from practice. *Agricultural Systems*. https://doi.org/10.1016/j.agsy.2021.103313
+### 85. Jonathan Steinke; Berta Ortiz-Crespo; Jacob van Etten; Anna Müller (2021). Participatory design of digital innovation in agricultural research-for-development: insights from practice. *Agricultural Systems*. https://doi.org/10.1016/j.agsy.2021.103313
 
-- Provisional scope: 1 description is retained and 4 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 4 descriptions are excluded under the component assessment rule.
 
 **Study design:** Qualitative author deliberation and inductive comparison of project cases.
 
@@ -1405,9 +1517,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Seed Information Exchange Platform: The team created eleven personas in a workshop to bring different user perspectives into prototyping. Note: The cited passage directly supports this description.
 
-### 79. Jacki Liddle; Peter Worthy; Dennis Frost; Eileen Taylor; Dubhglas Taylor (2022). Partnering with people living with dementia and care partners in technology research and design: Reflections and recommendations. *Australian Occupational Therapy Journal*. https://doi.org/10.1111/1440-1630.12843
+### 86. Jacki Liddle; Peter Worthy; Dennis Frost; Eileen Taylor; Dubhglas Taylor (2022). Partnering with people living with dementia and care partners in technology research and design: Reflections and recommendations. *Australian Occupational Therapy Journal*. https://doi.org/10.1111/1440-1630.12843
 
-- Provisional scope: 2 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 2 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative shared meta-reflection across three projects.
 
@@ -1425,9 +1537,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Florence Project: People were asked what accessibility supports they required. Note: The cited passage directly supports this description.
 
-### 80. Farr, Michelle (2018). Power dynamics and collaborative mechanisms in co-production and co-design processes. *Critical Social Policy*. https://doi.org/10.1177/0261018317747444
+### 87. Farr, Michelle (2018). Power dynamics and collaborative mechanisms in co-production and co-design processes. *Critical Social Policy*. https://doi.org/10.1177/0261018317747444
 
-- Provisional scope: 2 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 2 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
 - PDF bibliographic note: The checked PDF displays a 2017 copyright date and pages 1–22 without an issue; its relationship to the linked-item 2018 date remains unconfirmed.
 - Bibliographic note: The source record lists 2017; the relationship between versions remains unconfirmed.
 
@@ -1447,7 +1559,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — NHS breast cancer services: Facilitators helped create space for co-design groups to identify shared goals and means of achieving them. Note: The cited passage directly supports this description.
 
-### 81. Miller, Luke; Shanley, Dianne C.; Page, Marjad; Webster, Heidi; Liu, Wei; Reid, Natasha; Shelton, Doug; West, Karen; Marshall, Joan; Hawkins, Erinn (2022). Preventing Drift through Continued Co-Design with a First Nations Community: Refining the Prototype of a Tiered FASD Assessment. *International Journal of Environmental Research and Public Health*. https://doi.org/10.3390/ijerph191811226
+### 88. Miller, Luke; Shanley, Dianne C.; Page, Marjad; Webster, Heidi; Liu, Wei; Reid, Natasha; Shelton, Doug; West, Karen; Marshall, Joan; Hawkins, Erinn (2022). Preventing Drift through Continued Co-Design with a First Nations Community: Refining the Prototype of a Tiered FASD Assessment. *International Journal of Environmental Research and Public Health*. https://doi.org/10.3390/ijerph191811226
 
 **Study design:** Qualitative narrative component of mixed-methods co-design workshop; Single-group pre-post workshop evaluation.
 
@@ -1465,7 +1577,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Second Yapatjarrathati community workshop: The workshop used assessment demonstrations, hands-on practice and scoring of hypothetical cases.
 
-### 82. Yeon Kim; Suk Lee; Changsun Ahn (2021). Project-based learning in a graduate course on home appliance engineering. *International Journal of Electrical Engineering & Education*. https://doi.org/10.1177/00207209211013445
+### 89. Yeon Kim; Suk Lee; Changsun Ahn (2021). Project-based learning in a graduate course on home appliance engineering. *International Journal of Electrical Engineering & Education*. https://doi.org/10.1177/00207209211013445
 
 - PDF bibliographic note: Published online-first article; issue and final publication year not established from this PDF
 
@@ -1483,7 +1595,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report — whole study: Not reproduced because of quotation or overlap with source text.
 
-### 83. Judith Nicogossian; Stéphane Héas; Claire Thénié; Margaux Noel; Laurent Misery; Sebastien Barbarot; Fabienne Martin Juchat (2024). Questions a patient with moderate to severe atopic dermatitis would like to be asked: Data from a qualitative study conducted by anthropologists. *JEADV Clinical Practice*. https://doi.org/10.1002/jvc2.423
+### 90. Judith Nicogossian; Stéphane Héas; Claire Thénié; Margaux Noel; Laurent Misery; Sebastien Barbarot; Fabienne Martin Juchat (2024). Questions a patient with moderate to severe atopic dermatitis would like to be asked: Data from a qualitative study conducted by anthropologists. *JEADV Clinical Practice*. https://doi.org/10.1002/jvc2.423
 
 **Study design:** Exploratory qualitative group study.
 
@@ -1499,7 +1611,23 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Patient group discussions: Anthropologists facilitated patient expression during group interviews.
 
-### 84. Agustin, Abang Edwin Syarif; Widyanto, David (2026). Reframing Design Practice: Ethical Design as a Practice of Inclusion and Empowerment in Marginalized Communities. *Jurnal Desain Indonesia*. https://doi.org/10.52265/jdi.v8i2.821
+### 91. Danielle DuPlessis; Emily Lam; Fanny Hotze; Ajmal Khan; Hiba Al-Hakeem; Stephanie McFarland; Andrea Hickling; Michael Hutchison; F. Virginia Wright; Nick Reed; Elaine Biddiss; Shannon E. Scratch (2022). R2Play development: Fostering user-driven technology that supports return-to-play decision-making following pediatric concussion. *Frontiers in Rehabilitation Sciences*. https://doi.org/10.3389/fresc.2022.1051579
+
+**Study design:** First-person account of initial design decisions within a multi-method development study (candidate stage: approval was not covered by the earlier review record).
+
+**Setting:**
+
+- Case — R2Play initial design: An interdisciplinary team developed an assessment concept for youth athletes after concussion.
+
+**Participants:**
+
+- Case — Initial design team: The team included health practitioners, engineers, athletes and researchers.
+
+**Support:**
+
+- Case — Team knowledge sharing: Clinical and engineering partners shared knowledge and demonstrated practices or technologies.
+
+### 92. Agustin, Abang Edwin Syarif; Widyanto, David (2026). Reframing Design Practice: Ethical Design as a Practice of Inclusion and Empowerment in Marginalized Communities. *Jurnal Desain Indonesia*. https://doi.org/10.52265/jdi.v8i2.821
 
 **Study design:** Qualitative participatory design case study.
 
@@ -1517,9 +1645,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Bintaro community school design study: Design facilitators worked with students to develop furniture sketches.
 
-### 85. Maissa Khatib; Rushabh Shah; Ehiremen Azugbene; Matthew Paul Buman (2026). Rethinking participation: design studios for health as a scalable co-design framework for health equity. *Frontiers in Public Health*. https://doi.org/10.3389/fpubh.2025.1681798
+### 93. Maissa Khatib; Rushabh Shah; Ehiremen Azugbene; Matthew Paul Buman (2026). Rethinking participation: design studios for health as a scalable co-design framework for health equity. *Frontiers in Public Health*. https://doi.org/10.3389/fpubh.2025.1681798
 
-- Provisional scope: 6 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 6 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative component of mixed-methods design studio evaluation.
 
@@ -1537,9 +1665,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Design Studios for Health sessions: Each session was facilitated through three core roles.
 
-### 86. Hoda, Rashina; Noble, James; Marshall, Stuart (2013). Self-Organizing Roles on Agile Software Development Teams. *IEEE Transactions on Software Engineering*. https://doi.org/10.1109/tse.2012.30
+### 94. Hoda, Rashina; Noble, James; Marshall, Stuart (2013). Self-Organizing Roles on Agile Software Development Teams. *IEEE Transactions on Software Engineering*. https://doi.org/10.1109/tse.2012.30
 
-- Provisional scope: 6 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 6 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
 
 **Study design:** Classic grounded theory qualitative study.
 
@@ -1557,9 +1685,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Observed New Zealand team meeting: A team member who had contacted the customer provided requirements and clarified doubts.
 
-### 87. Gomes, Jorge; de Weerd-Nederhof, Petra C.; Pearson, Alan; Fisscher, Olaf A.M. (2001). Senior management support in the new product development process. *Creativity and Innovation Management*. https://doi.org/10.1111/1467-8691.00226
+### 95. Gomes, Jorge; de Weerd-Nederhof, Petra C.; Pearson, Alan; Fisscher, Olaf A.M. (2001). Senior management support in the new product development process. *Creativity and Innovation Management*. https://doi.org/10.1111/1467-8691.00226
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Analytical cross-sectional questionnaire phase of mixed-methods study.
 
@@ -1577,9 +1705,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Chemicals manufacturer customer visits: Senior management promoted joint customer visits by technical and commercial staff.
 
-### 88. Giuseppe Ng; Rey Vincenzo Cruz (2020). Student and Faculty Adviser Insights in an Agile Methodology Integrated Filipino Company-Sponsored I.T. Capstone Program. *International Journal of Hybrid Information Technology*. https://doi.org/10.21742/ijhit.2020.13.2.03
+### 96. Giuseppe Ng; Rey Vincenzo Cruz (2020). Student and Faculty Adviser Insights in an Agile Methodology Integrated Filipino Company-Sponsored I.T. Capstone Program. *International Journal of Hybrid Information Technology*. https://doi.org/10.21742/ijhit.2020.13.2.03
 
-- Provisional scope: 4 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 4 descriptions are retained and 4 descriptions are excluded under the component assessment rule.
 
 **Study design:** Qualitative content analysis of capstone feedback.
 
@@ -1597,7 +1725,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Student group affected by illness: A faculty adviser helped the group assess and plan around illness during weekly scrums.
 
-### 89. Nuala McLaughlin-Borlace; Stephanie Craig; Tara Anderson; Nuala Flood; Laura Steele; Tracy Levett-Jones; Fadwa Alhalaiqa; Dalal Hammoudi Halat; Norfadzilah Ahmad; Jesus Sánchez-Martín; Charlotte McArdle; Naomi Tutticci; Sara Lynch; Rose Gallagher; Gary Mitchell (2026). Student participation in accelerated experience-based co-design for healthcare decarbonisation education: a focused ethnographic study. *BMC Medical Education*. https://doi.org/10.1186/s12909-026-10015-1
+### 97. Nuala McLaughlin-Borlace; Stephanie Craig; Tara Anderson; Nuala Flood; Laura Steele; Tracy Levett-Jones; Fadwa Alhalaiqa; Dalal Hammoudi Halat; Norfadzilah Ahmad; Jesus Sánchez-Martín; Charlotte McArdle; Naomi Tutticci; Sara Lynch; Rose Gallagher; Gary Mitchell (2026). Student participation in accelerated experience-based co-design for healthcare decarbonisation education: a focused ethnographic study. *BMC Medical Education*. https://doi.org/10.1186/s12909-026-10015-1
 
 **Study design:** Qualitative focused ethnographic study.
 
@@ -1615,7 +1743,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Healthcare decarbonisation e-resource workshops: Facilitators synthesised ideas into an e-resource design.
 
-### 90. Higgins, Erin; Oliver, Zaria; Hamidi, Foad (2025). Supporting Campus Activism through Creating DIY-AT in a Social Justice Aligned Makerspace. *ACM Transactions on Accessible Computing*. https://doi.org/10.1145/3715965
+### 98. Higgins, Erin; Oliver, Zaria; Hamidi, Foad (2025). Supporting Campus Activism through Creating DIY-AT in a Social Justice Aligned Makerspace. *ACM Transactions on Accessible Computing*. https://doi.org/10.1145/3715965
 
 **Study design:** Qualitative case series with inductive thematic analysis.
 
@@ -1633,9 +1761,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — P3 turn-signal extender project: P3 received three basic CAD sessions and research-team guidance.
 
-### 91. Aino Ahtinen; Kirsikka Kaipainen; Salla Jarske; Kaisa Väänänen (2023). Supporting Remote Social Robot Design Collaboration with Online Canvases: Lessons Learned from Facilitators’ and Participants’ Experiences. *International Journal of Social Robotics*. https://doi.org/10.1007/s12369-023-00966-6
+### 99. Aino Ahtinen; Kirsikka Kaipainen; Salla Jarske; Kaisa Väänänen (2023). Supporting Remote Social Robot Design Collaboration with Online Canvases: Lessons Learned from Facilitators’ and Participants’ Experiences. *International Journal of Social Robotics*. https://doi.org/10.1007/s12369-023-00966-6
 
-- Provisional scope: 2 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 2 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative component of mixed methods study.
 
@@ -1653,9 +1781,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Tampere social robotics course: The facilitator followed group work on canvases and supplied written feedback, questions and comments.
 
-### 92. Trischler, Jakob; Kristensson, Per; Scott, Don (2018). Team diversity and its management in a co-design team. *Journal of service management*. https://doi.org/10.1108/josm-10-2016-0283
+### 100. Trischler, Jakob; Kristensson, Per; Scott, Don (2018). Team diversity and its management in a co-design team. *Journal of service management*. https://doi.org/10.1108/josm-10-2016-0283
 
-- Provisional scope: 6 descriptions are retained and 8 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 6 descriptions are retained and 8 descriptions are excluded under the component assessment rule.
 
 **Study design:** Controlled field experiment with team allocation method unreported; qualitative component of mixed method field experiments.
 
@@ -1673,7 +1801,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Library 1 design experiments: The principal researcher introduced each design stage and allocated design tools and equipment.
 
-### 93. Boyle, Bryan; Arnedillo-Sanchez, Inmaculada (2022). The Inclusion of Children on the Autism Spectrum in the Design of Learning Technologies: A Small-Scale Exploration of Adults’ Perspectives. *Frontiers in Education*. https://doi.org/10.3389/feduc.2022.867964
+### 101. Boyle, Bryan; Arnedillo-Sanchez, Inmaculada (2022). The Inclusion of Children on the Autism Spectrum in the Design of Learning Technologies: A Small-Scale Exploration of Adults’ Perspectives. *Frontiers in Education*. https://doi.org/10.3389/feduc.2022.867964
 
 **Study design:** qualitative exploratory study with grounded-theory-informed sampling and thematic analysis.
 
@@ -1691,9 +1819,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Participatory literacy app design project: Adults supported the children to create visual and audio artefacts during the second workshop. Note: The passage identifies this characteristic within the specified scope.
 
-### 94. Kirwin B Matthews; Maureen C Tanner (2022). THE INFLUENCE OF NATIONAL CULTURE DIMENSIONS ON AGILE PRACTICES: THE CASE OF SOUTH AFRICAN SOFTWARE DEVELOPMENT TEAMS. *IADIS INTERNATIONAL JOURNAL ON COMPUTER SCIENCE AND INFORMATION SYSTEMS*. https://doi.org/10.33965/ijcsis_2022170206
+### 102. Kirwin B Matthews; Maureen C Tanner (2022). THE INFLUENCE OF NATIONAL CULTURE DIMENSIONS ON AGILE PRACTICES: THE CASE OF SOUTH AFRICAN SOFTWARE DEVELOPMENT TEAMS. *IADIS INTERNATIONAL JOURNAL ON COMPUTER SCIENCE AND INFORMATION SYSTEMS*. https://doi.org/10.33965/ijcsis_2022170206
 
-- Provisional scope: 4 descriptions are retained and 3 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 4 descriptions are retained and 3 descriptions are excluded under the component assessment rule.
 
 **Study design:** Qualitative interpretive practitioner interviews.
 
@@ -1709,7 +1837,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Account of interviewee P26: P26 described using planning poker to obtain different perspectives and reach agreement on a sprint commitment. Note: The passage identifies this characteristic within the specified scope.
 
-### 95. Nadia Rene Odlum; Morwenna Collett (2022). The Right to Play: Snakes and Ladders. *The Journal of Public Space*. https://doi.org/10.32891/jps.v7i2.1501
+### 103. Nadia Rene Odlum; Morwenna Collett (2022). The Right to Play: Snakes and Ladders. *The Journal of Public Space*. https://doi.org/10.32891/jps.v7i2.1501
 
 **Study design:** Qualitative descriptive case narrative.
 
@@ -1727,9 +1855,9 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Snakes and Ladders mural: Art mentor Rosell Flatley supported Digby Webster in the studio and on site. Note: The passage identifies this characteristic within the specified scope.
 
-### 96. Vivek Rao; George W. Moore; Osita Anders Udekwu; Björn Hartmann (2020). Tracing stories across the design process: a study of engineering students’ engagement with storytelling in an undergraduate human-centered design course. *International journal of engineering education*. [DOI not recorded]
+### 104. Vivek Rao; George W. Moore; Osita Anders Udekwu; Björn Hartmann (2020). Tracing stories across the design process: a study of engineering students’ engagement with storytelling in an undergraduate human-centered design course. *International journal of engineering education*. [DOI not recorded]
 
-**Study design:** Single group pre post comparison of team prototype story scores (author approval not established).
+**Study design:** Single group pre post comparison of team prototype story scores (candidate stage: approval was not covered by the earlier review record).
 
 **Setting:**
 
@@ -1743,7 +1871,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Case — Prototype assignment prompt: The assignment required students to represent the experience created by their solution.
 
-### 97. Mark Goodhew; Sonia Matiuk; Carmen Axisa; Chris Gough; Jo River (2025). Transforming Alcohol and Other Drug Education Through Co‐Design. *International Journal of Mental Health Nursing*. https://doi.org/10.1111/inm.70009
+### 105. Mark Goodhew; Sonia Matiuk; Carmen Axisa; Chris Gough; Jo River (2025). Transforming Alcohol and Other Drug Education Through Co‐Design. *International Journal of Mental Health Nursing*. https://doi.org/10.1111/inm.70009
 
 **Study design:** qualitative descriptive interview study.
 
@@ -1759,7 +1887,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: An experienced co-design facilitator facilitated the co-design meetings.
 
-### 98. Jasneet Parmar; Tanya L’Heureux; Richard Lewanczuk; Jonathan Lee; Lesley Charles; Laurel Sproule; Isabel Henderson; Esha Ray Chaudhuri; Jim Berry; Kimberly Shapkin; Linda Powell; David Nicholas; Glenda Tarnowski; Myles Leslie; Michelle Lobchuk; Joanne Kaattari; Ambere Porter; Vivian Ewa; Linda Podlosky; Jacqueline Pei; Sarah Mosaico; Jamie Penner; Shannon Saunders; Sharon Anderson (2025). Transforming Care Through Co-Design: Developing Inclusive Caregiver-Centered Education in Healthcare. *Healthcare*. https://doi.org/10.3390/healthcare13030254
+### 106. Jasneet Parmar; Tanya L’Heureux; Richard Lewanczuk; Jonathan Lee; Lesley Charles; Laurel Sproule; Isabel Henderson; Esha Ray Chaudhuri; Jim Berry; Kimberly Shapkin; Linda Powell; David Nicholas; Glenda Tarnowski; Myles Leslie; Michelle Lobchuk; Joanne Kaattari; Ambere Porter; Vivian Ewa; Linda Podlosky; Jacqueline Pei; Sarah Mosaico; Jamie Penner; Shannon Saunders; Sharon Anderson (2025). Transforming Care Through Co-Design: Developing Inclusive Caregiver-Centered Education in Healthcare. *Healthcare*. https://doi.org/10.3390/healthcare13030254
 
 **Study design:** Qualitative focus group study.
 
@@ -1775,7 +1903,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 - Report: A research team of five convened and facilitated the co-design group.
 
-### 99. Shen, Luyao; Zhang, Zhongyue; Wei, Qianjie; Lik-Hang, Lee; Hui, Pan; Fan, Mingming (2026). Understanding and Designing Technology to Support Mentoring Functions in Chinese Design Teams. *International Journal of Human-Computer Interaction*. https://doi.org/10.1080/10447318.2026.2651347
+### 107. Shen, Luyao; Zhang, Zhongyue; Wei, Qianjie; Lik-Hang, Lee; Hui, Pan; Fan, Mingming (2026). Understanding and Designing Technology to Support Mentoring Functions in Chinese Design Teams. *International Journal of Human-Computer Interaction*. https://doi.org/10.1080/10447318.2026.2651347
 
 **Study design:** qualitative interview study.
 
@@ -1793,7 +1921,7 @@ The review lead reported on 15 November 2026 that AI-generated candidates across
 
 Analysis scope, separate from JBI appraisal: One description concerning a mentee's low-cost assignments was excluded because the support function of the assignments could not be established. Other descriptions from this report remain in the synthesis.
 
-### 100. Binkhorst, F.; Handelzalts, A.; Poortman, C.L.; Van Joolingen, W.R. (2015). Understanding teacher design teams – A mixed methods approach to developing a descriptive framework. *Teaching and Teacher Education*. https://doi.org/10.1016/j.tate.2015.07.006
+### 108. Binkhorst, F.; Handelzalts, A.; Poortman, C.L.; Van Joolingen, W.R. (2015). Understanding teacher design teams – A mixed methods approach to developing a descriptive framework. *Teaching and Teacher Education*. https://doi.org/10.1016/j.tate.2015.07.006
 
 **Study design:** Cross-sectional questionnaire within explanatory sequential mixed methods study; Qualitative interview component of explanatory sequential mixed-methods study.
 
@@ -1811,7 +1939,7 @@ Analysis scope, separate from JBI appraisal: One description concerning a mentee
 
 - Case — Teacher design team A: The team coach coordinated joint definition of a shared goal.
 
-### 101. Sandholdt, Catharina Thiel; Srivarathan, Abirami; Kristiansen, Maria; Malling, Gritt Marie Hviid; Olesen, Kathrine Vingum Møller; Jeppesen, Mette; Lund, Rikke (2022). Undertaking graphic facilitation to enable participation in health promotion interventions in disadvantaged neighbourhoods in Denmark. *Health Promotion International*. https://doi.org/10.1093/heapro/daac034
+### 109. Sandholdt, Catharina Thiel; Srivarathan, Abirami; Kristiansen, Maria; Malling, Gritt Marie Hviid; Olesen, Kathrine Vingum Møller; Jeppesen, Mette; Lund, Rikke (2022). Undertaking graphic facilitation to enable participation in health promotion interventions in disadvantaged neighbourhoods in Denmark. *Health Promotion International*. https://doi.org/10.1093/heapro/daac034
 
 **Study design:** Qualitative ethnographic participatory intervention case.
 
@@ -1829,7 +1957,7 @@ Analysis scope, separate from JBI appraisal: One description concerning a mentee
 
 - Case — Neighbourhood health promotion workshop: The graphic facilitator created a visual record of residents’ ideas.
 
-### 102. Jacqueline Rojo; Ajesh George; Yenna Salamonson; Leanne Hunt; Lucie M. Ramjan (2023). Using Codesign to Develop a Novel Oral Healthcare Educational Intervention for Undergraduate Nursing Students. *International Journal of Environmental Research and Public Health*. https://doi.org/10.3390/ijerph20064919
+### 110. Jacqueline Rojo; Ajesh George; Yenna Salamonson; Leanne Hunt; Lucie M. Ramjan (2023). Using Codesign to Develop a Novel Oral Healthcare Educational Intervention for Undergraduate Nursing Students. *International Journal of Environmental Research and Public Health*. https://doi.org/10.3390/ijerph20064919
 
 **Study design:** Qualitative co-design process evaluation.
 
@@ -1847,9 +1975,9 @@ Analysis scope, separate from JBI appraisal: One description concerning a mentee
 
 - Case — Oral health education co-design workshops: A research assistant facilitated one group and the researcher facilitated the other.
 
-### 103. Laura Sheard; Claire Marsh; Thomas Mills; Rosemary Peacock; Joseph Langley; Rebecca Partridge; Ian Gwilt; Rebecca Lawton (2019). Using patient experience data to develop a patient experience toolkit to improve hospital care: a mixed-methods study. *Health Services and Delivery Research*. https://doi.org/10.3310/hsdr07360
+### 111. Laura Sheard; Claire Marsh; Thomas Mills; Rosemary Peacock; Joseph Langley; Rebecca Partridge; Ian Gwilt; Rebecca Lawton (2019). Using patient experience data to develop a patient experience toolkit to improve hospital care: a mixed-methods study. *Health Services and Delivery Research*. https://doi.org/10.3310/hsdr07360
 
-- Provisional scope: 4 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
+- Synthesis scope: 4 descriptions are retained and 2 descriptions are excluded under the component assessment rule.
 
 **Study design:** Participatory action research with qualitative thematic analysis.
 
@@ -1867,7 +1995,7 @@ Analysis scope, separate from JBI appraisal: One description concerning a mentee
 
 - Case — Emergency department A(i): A quality improvement specialist created a leaflet and took it through approval for the team.
 
-### 104. Juliane Jarke; Ulrike Gerhard (2018). Using Probes for Sharing (Tacit) Knowing in Participatory Design: Facilitating Perspective Making and Perspective Taking. *i-com*. https://doi.org/10.1515/icom-2018-0014
+### 112. Juliane Jarke; Ulrike Gerhard (2018). Using Probes for Sharing (Tacit) Knowing in Participatory Design: Facilitating Perspective Making and Perspective Taking. *i-com*. https://doi.org/10.1515/icom-2018-0014
 
 **Study design:** qualitative participatory case study.
 
@@ -1885,7 +2013,7 @@ Analysis scope, separate from JBI appraisal: One description concerning a mentee
 
 - Case — German district 1 neighbourhood guide: Researchers provided participants with a district map as a probe.
 
-### 105. Thiago Andrade; Renata Araujo; Sean Siqueira (2022). What can move non-IS developers towards open and collaborative development initiatives?. *iSys - Brazilian Journal of Information Systems*. https://doi.org/10.5753/isys.2022.2152
+### 113. Thiago Andrade; Renata Araujo; Sean Siqueira (2022). What can move non-IS developers towards open and collaborative development initiatives?. *iSys - Brazilian Journal of Information Systems*. https://doi.org/10.5753/isys.2022.2152
 
 **Study design:** Qualitative interpretive interview study.
 
@@ -1901,9 +2029,9 @@ Analysis scope, separate from JBI appraisal: One description concerning a mentee
 
 - Case — Hackathon mentoring: A mentor gave prototyping tips and suggested the Ionic Creator tool.
 
-### 106. Maricel Krügel; Charmaine van der Merwe; Hanelie Adendorff (2025). What Does it Take to Become a Team? Group Work in a Final Year Food Science Capstone Module. *Journal of Food Science*. https://doi.org/10.1111/1750-3841.70688
+### 114. Maricel Krügel; Charmaine van der Merwe; Hanelie Adendorff (2025). What Does it Take to Become a Team? Group Work in a Final Year Food Science Capstone Module. *Journal of Food Science*. https://doi.org/10.1111/1750-3841.70688
 
-- Provisional scope: 3 descriptions are retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 3 descriptions are retained and 1 description is excluded under the component assessment rule.
 
 **Study design:** Qualitative phenomenological thematic analysis of student reflections.
 
@@ -1921,7 +2049,7 @@ Analysis scope, separate from JBI appraisal: One description concerning a mentee
 
 - Case — One group in the food science capstone project: A facilitator helped the group identify and address its problems.
 
-### 107. Julie Bosak; Mari‐Lynn Drainoni; Cheri Bryer; Daisy Goodman; Lisa Messersmith; Eugene Declercq (2023). ‘It opened my eyes, my ears, and my heart’: Codesigning a substance use disorder treatment programme. *Health Expectations*. https://doi.org/10.1111/hex.13908
+### 115. Julie Bosak; Mari‐Lynn Drainoni; Cheri Bryer; Daisy Goodman; Lisa Messersmith; Eugene Declercq (2023). ‘It opened my eyes, my ears, and my heart’: Codesigning a substance use disorder treatment programme. *Health Expectations*. https://doi.org/10.1111/hex.13908
 
 **Study design:** Qualitative process evaluation.
 
@@ -1939,7 +2067,7 @@ Analysis scope, separate from JBI appraisal: One description concerning a mentee
 
 - Case — Families Flourish Northeast programme co-design: The launch event shared interview quotes describing provider and lived-experience perspectives.
 
-### 108. A. Dominello; S. Lu; A. De Los Santos; M. Murphy; R. Clay‐Williams; C. Cheek (2026). “ There Was a Light Bulb Moment ”: Using Persona Dyads to Empathise, Explore and Develop Person‐Centred Solutions in Mental Health Service Co‐Design. *Health Expectations*. https://doi.org/10.1111/hex.70797
+### 116. A. Dominello; S. Lu; A. De Los Santos; M. Murphy; R. Clay‐Williams; C. Cheek (2026). “ There Was a Light Bulb Moment ”: Using Persona Dyads to Empathise, Explore and Develop Person‐Centred Solutions in Mental Health Service Co‐Design. *Health Expectations*. https://doi.org/10.1111/hex.70797
 
 **Study design:** Qualitative deductive content analysis of two co-design workshops within mixed-method evaluation.
 
@@ -1957,7 +2085,7 @@ Analysis scope, separate from JBI appraisal: One description concerning a mentee
 
 - Case — Mental health co-design workshop 1: A facilitator introduced the clinical scenario and persona pair.
 
-### 109. Leshell Hatley; Maha Al-Freih; Brenda Bannan (2018). “I’m Just Guiding You”: An Exploration of Software Design Mentorship within a Software Engineering Firm. *Journal of Software Engineering and Applications*. https://doi.org/10.4236/jsea.2018.116019
+### 117. Leshell Hatley; Maha Al-Freih; Brenda Bannan (2018). “I’m Just Guiding You”: An Exploration of Software Design Mentorship within a Software Engineering Firm. *Journal of Software Engineering and Applications*. https://doi.org/10.4236/jsea.2018.116019
 
 **Study design:** qualitative interpretivist case study.
 
@@ -1975,11 +2103,11 @@ Analysis scope, separate from JBI appraisal: One description concerning a mentee
 
 - Case — Code Theory software design meeting: The expert used questions to prompt further thought from the novice.
 
-### 110. Ishbel Orla Whitehead; Mark Adley; Alexandra Thompson; Elizabeth Westhead; Marina Politis; Philip Mordue; Amy O'Donnell; Barbara Hanratty (2026). “We Don't Normally Go Down This Avenue; This Is Normally Taboo”: Using Co‐Design to Develop a Training Intervention for Spiritual Health in Primary Care. *Health Expectations*. https://doi.org/10.1111/hex.70737
+### 118. Ishbel Orla Whitehead; Mark Adley; Alexandra Thompson; Elizabeth Westhead; Marina Politis; Philip Mordue; Amy O'Donnell; Barbara Hanratty (2026). “We Don't Normally Go Down This Avenue; This Is Normally Taboo”: Using Co‐Design to Develop a Training Intervention for Spiritual Health in Primary Care. *Health Expectations*. https://doi.org/10.1111/hex.70737
 
-- Provisional scope: 1 description is retained and 1 description is excluded under the component assessment rule.
+- Synthesis scope: 1 description is retained and 1 description is excluded under the component assessment rule.
 
-**Study design:** Descriptive optional closed-item post-workshop questionnaire results; two items, evaluated jointly with limitations applicable to each. (author approval not established); Qualitative deductive thematic evaluation of co-design workshops.
+**Study design:** Descriptive optional closed-item post-workshop questionnaire results; two items, evaluated jointly with limitations applicable to each. (candidate stage: approval was not covered by the earlier review record); Qualitative deductive thematic evaluation of co-design workshops.
 
 **Setting:**
 

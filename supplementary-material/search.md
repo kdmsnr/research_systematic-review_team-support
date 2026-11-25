@@ -1,6 +1,8 @@
 # Search strategies and information sources
 
-The synthesis includes descriptions that met the six-condition review criteria. A report with an eligible component could contribute only those descriptions whose support and outcomes were attributable to eligible components. Descriptions involving an ineligible or unresolved component, or lacking a complete match to eligible components, were excluded. Characteristics describe each report or case and can extend beyond the findings used in the synthesis. The review lead confirmed exclusion of the 30 reports with an unresolved report-level assessment. Individual sixth-criterion assessments include provisional judgements.
+The review lead’s earlier Google Scholar excerpts used English and Japanese. Their dates and other settings were undocumented. The English-only SerpApi search described below was a separate search.
+
+The synthesis includes descriptions that met the six-condition review criteria. A report with an eligible component could contribute only those descriptions whose support and outcomes were attributable to eligible components. Descriptions involving an ineligible or unresolved component, or lacking a complete match to eligible components, were excluded. Characteristics describe each report or case and can extend beyond the findings used in the synthesis. The review lead reported human review of the eligibility decisions from the component checks on 22 and 24 November 2026. The synthesis also incorporates later reassessments based on selected JBI items. The appraisal file gives the scope of the recorded judgments.
 
 The authors' original contributions are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); any third-party material remains subject to its own rights.
 
